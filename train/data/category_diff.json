@@ -1,0 +1,14 @@
+[
+  {
+    "category": "sleeveless",
+    "avg_chest_diff": 0.08400894440227066
+  },
+  {
+    "category": "tshirts",
+    "avg_chest_diff": 0.08324572303765065
+  },
+  {
+    "category": "opened-shirts",
+    "avg_chest_diff": 0.03266778040303111
+  }
+]

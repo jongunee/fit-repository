@@ -1,0 +1,4835 @@
+[
+  {
+    "file_name": "03521.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24133085968402124,
+    "total_length": 0.6359189036253026,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42664193721566857,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "05783.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22710340850328256,
+    "total_length": 0.4868284944801018,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4137053713098984,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "04266.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.239973674033646,
+    "total_length": 0.608534300803337,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41670151726180815,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "07535.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24111321972133865,
+    "total_length": 0.3837657092467559,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4240801562004358,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "05061.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23629527865086694,
+    "total_length": 0.40035145404099326,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4287081352436348,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "04196.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2457149305673328,
+    "total_length": 0.523793124976181,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4517364820380383,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "00525.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23608988843060674,
+    "total_length": 0.5091267146488213,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4292751886431314,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "04881.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2512890502762718,
+    "total_length": 0.4701354466373191,
+    "sleeve_length": 0.0,
+    "chest_width": 0.45544980186377604,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "01790.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23791922916824512,
+    "total_length": 0.4070018400606749,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42424061185941264,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "06688.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2485382517398814,
+    "total_length": 0.4499031132176999,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44169073233301137,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "07594.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24802494953970092,
+    "total_length": 0.4939562751841013,
+    "sleeve_length": 0.0,
+    "chest_width": 0.46407387039111314,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "03399.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2390107774044941,
+    "total_length": 0.6818492574934021,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4487895618880756,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "00550.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2399101927749353,
+    "total_length": 0.5226025423550724,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44234021777354426,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "02065.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2386991982026,
+    "total_length": 0.5768512767207946,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4351018264875588,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "01508.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24887034235267205,
+    "total_length": 0.6294312458928275,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44672653401761286,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "04932.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23953581696577914,
+    "total_length": 0.42622005860836504,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4423033446874115,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "06561.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23685143226852498,
+    "total_length": 0.6605718228381248,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41794725844755043,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "00779.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23547963420076845,
+    "total_length": 0.4099971275822363,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4248284728116568,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "00745.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23500276235335762,
+    "total_length": 0.42137618829119544,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4157465350196161,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "00040.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23379709262638326,
+    "total_length": 0.5477992830415824,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42095877973311957,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "06095.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23329592616016986,
+    "total_length": 0.5125215475410898,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41713516330956735,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "04505.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24439698561453416,
+    "total_length": 0.5014163223731867,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4595423749036984,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "02648.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24245061805001605,
+    "total_length": 0.6453100612499751,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4435170722707312,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "01943.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24074413520503138,
+    "total_length": 0.44391652373735635,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4254995475125545,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "02478.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24530659857196938,
+    "total_length": 0.5322684843799228,
+    "sleeve_length": 0.0,
+    "chest_width": 0.435119832581511,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "02633.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23372431928092852,
+    "total_length": 0.5296567680697893,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42648941965301423,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "04111.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24907188686631404,
+    "total_length": 0.6237937710139789,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43076435466113416,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "05505.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23711181195928435,
+    "total_length": 0.37039408916689054,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4190148455820448,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "00236.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23391986206504783,
+    "total_length": 0.5486736089463036,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4336927717916307,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "05047.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24450366101590404,
+    "total_length": 0.5038345147051135,
+    "sleeve_length": 0.0,
+    "chest_width": 0.429936380125316,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "02968.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24056298167836304,
+    "total_length": 0.3793995332390265,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44549358701461594,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "00881.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24372126933353916,
+    "total_length": 0.49365655293678523,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44836750920929413,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "03524.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2419902973283625,
+    "total_length": 0.5911579177407714,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44317208120961493,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "02726.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23850254085956205,
+    "total_length": 0.5670292340550993,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41963898062895977,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "02585.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23046814801115592,
+    "total_length": 0.5325521642931514,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4266936791023631,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "01622.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23758439263471917,
+    "total_length": 0.42876666449195305,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43800166459683587,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "05650.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23457834543987494,
+    "total_length": 0.3532001185429879,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4233861420655408,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "02254.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23640784926244038,
+    "total_length": 0.5136932910605972,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4216141764595349,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "00690.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22367898650348741,
+    "total_length": 0.5397464954359042,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42067283921518595,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "01127.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2414942761695717,
+    "total_length": 0.6373086603135301,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42687560173600536,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "01011.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23837691956592583,
+    "total_length": 0.47447031820382923,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41706105111521574,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05341.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23223907376296996,
+    "total_length": 0.4725719378289932,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41455771006260966,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "06221.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23863651785235795,
+    "total_length": 0.5073468990762166,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43239233125500653,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "00173.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22697434068114195,
+    "total_length": 0.4105649242812325,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41383289162972403,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "00725.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23818206803836148,
+    "total_length": 0.5221205217981696,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43912229503913525,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "00885.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.232676598277055,
+    "total_length": 0.6059493599730716,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4211684981399877,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "00651.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2382346083703119,
+    "total_length": 0.34767493627940377,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42537623062120056,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "04133.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23597753860564466,
+    "total_length": 0.637872949281235,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4126883329478257,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "03542.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2294549938288148,
+    "total_length": 0.43615211786890695,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4173870674321877,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "03267.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23680642988961723,
+    "total_length": 0.5368066660812516,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42164530997769,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "02749.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2401550320896521,
+    "total_length": 0.5698774625491737,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4255156622251408,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "01334.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24968660654707178,
+    "total_length": 0.5768664691209267,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4288626384265476,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "01180.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2480980777110612,
+    "total_length": 0.4365779002759933,
+    "sleeve_length": 0.0,
+    "chest_width": 0.448258333801029,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "06971.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.226773543665432,
+    "total_length": 0.5234670769407364,
+    "sleeve_length": 0.0,
+    "chest_width": 0.413605345208118,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "03823.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24112549562001007,
+    "total_length": 0.5484331138739313,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43528217124971214,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "07653.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23975308124497013,
+    "total_length": 0.4992284868572293,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4308573162229511,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "05198.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.238667608028449,
+    "total_length": 0.5328615316321812,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4256077273584141,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "02177.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24243043354925817,
+    "total_length": 0.4975153373898275,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4558054262018897,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "04780.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2362801615067082,
+    "total_length": 0.4735769510726647,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43289784944717025,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "03125.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23467884754695784,
+    "total_length": 0.5084672610431666,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4196237239695112,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "03261.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2375596714995184,
+    "total_length": 0.4672238958518111,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41692514044256346,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05879.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2452620281069288,
+    "total_length": 0.6881107199729027,
+    "sleeve_length": 0.0,
+    "chest_width": 0.456245162093719,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "07541.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23220989868533157,
+    "total_length": 0.35553799283287674,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42267083490890645,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "02393.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24367086128749724,
+    "total_length": 0.5541812218702573,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42263289942757865,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "03594.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24555155685670493,
+    "total_length": 0.5498813096462103,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4251548777813382,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "02275.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24077157316164996,
+    "total_length": 0.38025148635305,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4355060851168868,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "03958.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2289216604821345,
+    "total_length": 0.5219233900976471,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41594880967351444,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "01483.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2451209773693745,
+    "total_length": 0.37712431910484345,
+    "sleeve_length": 0.0,
+    "chest_width": 0.447625299957114,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "04739.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.250433881297016,
+    "total_length": 0.4454011528550907,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43651178887828024,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "03282.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2380101624678342,
+    "total_length": 0.37779708886826796,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4462735330951445,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "04222.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.25433651765251875,
+    "total_length": 0.5455698166167182,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4549528008927197,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "01055.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2385272656608526,
+    "total_length": 0.5988105501709964,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4211732291893965,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "01125.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22933311766556455,
+    "total_length": 0.4961028882042199,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41330748820110685,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "00708.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23568687458737492,
+    "total_length": 0.3489415991543229,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43613886595929086,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "00995.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.244314433584139,
+    "total_length": 0.5421728778063739,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42348772823812986,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "02715.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23912094613021304,
+    "total_length": 0.3583266997116166,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4387018930697275,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "03514.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2397273168290645,
+    "total_length": 0.358574540906049,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4213833048379041,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "00086.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24440401086734623,
+    "total_length": 0.455972946469962,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4373835417315389,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "03341.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22688222096967028,
+    "total_length": 0.4464187370160781,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41532835216447583,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "03105.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2421189138973905,
+    "total_length": 0.43125910383804655,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4289702085052658,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "02805.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24061283005305617,
+    "total_length": 0.4218829735828005,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42671251262900545,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "01532.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24450103467471804,
+    "total_length": 0.3725559865477154,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4291995650168434,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "03471.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24717461937657434,
+    "total_length": 0.39829348556806776,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42548730092683484,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "00329.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23490061617522406,
+    "total_length": 0.4764539595207107,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42886284845639,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "05782.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23360377004117,
+    "total_length": 0.5333136334359837,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4126118523876712,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "03475.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2393898011730494,
+    "total_length": 0.4757822875692512,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41519922763060957,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "03326.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23242038286235434,
+    "total_length": 0.5884991862907617,
+    "sleeve_length": 0.0,
+    "chest_width": 0.416670144465601,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "06636.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23558932245984118,
+    "total_length": 0.4969737722785877,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4169167409611777,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "05479.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2487497179623389,
+    "total_length": 0.3843561282919011,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4386610912974841,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "00769.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2335133140116253,
+    "total_length": 0.4334013395461088,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41377131643480713,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05373.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24594736608774698,
+    "total_length": 0.5070494189687774,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42941296155442843,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "02851.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23666868565308352,
+    "total_length": 0.465254904465835,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4124258106191876,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "06153.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2515375877278534,
+    "total_length": 0.5575677287513152,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4289666945592172,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "07053.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24332774288642592,
+    "total_length": 0.6080215487172708,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42143868870903933,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "00837.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23436356873992037,
+    "total_length": 0.4247853594690684,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42489804223638494,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "00288.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23549919858912344,
+    "total_length": 0.6556319488099999,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4284227440988311,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "06621.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23671262168580046,
+    "total_length": 0.6338065699895037,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41964842319654716,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "05896.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22863058404358688,
+    "total_length": 0.49441408197730674,
+    "sleeve_length": 0.0,
+    "chest_width": 0.412361766541397,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "07167.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23655754695007714,
+    "total_length": 0.44397313484763096,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44049146043134013,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "03171.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23852529154522054,
+    "total_length": 0.4543709199857987,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44162734876263565,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "03920.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2356245009705345,
+    "total_length": 0.49400033182853675,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4219119925715522,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "00001.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2324432214671221,
+    "total_length": 0.5083328361798406,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4189547280320385,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "07241.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24086918315218694,
+    "total_length": 0.40233797030319485,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4328406881269764,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "03170.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24403123075491207,
+    "total_length": 0.6724424928660937,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44794915698181004,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "00538.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23696294628016587,
+    "total_length": 0.46535056404598935,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4283896505744047,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "06485.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2458749766640923,
+    "total_length": 0.466164682076619,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42388455853289997,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05004.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2506923388901278,
+    "total_length": 0.44811197238803124,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4312715095543497,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "00386.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24326347057274525,
+    "total_length": 0.39819362878388626,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43683480023262944,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "06468.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2417935931369487,
+    "total_length": 0.6477100751244611,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4281015397884258,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "04225.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23689914165520765,
+    "total_length": 0.4063529087030261,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4291271083413274,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "03674.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24529942663696666,
+    "total_length": 0.5714068405724437,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4293738794882723,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "06854.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23011292676492678,
+    "total_length": 0.44743420921906113,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41651743814686937,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "07493.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23603167289829688,
+    "total_length": 0.42895239251350287,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4263756554010977,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "00691.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23176032504927993,
+    "total_length": 0.5377575736581859,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4176050505927541,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "06196.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2360173339728596,
+    "total_length": 0.42391077025574253,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4177681504525842,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "05480.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22750526097401885,
+    "total_length": 0.6357302266645724,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4153400930006568,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "05623.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23355436364794954,
+    "total_length": 0.5182482170329629,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4302604153095718,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "00325.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24902341004961528,
+    "total_length": 0.56166721681241,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4427729474199702,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "02339.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24715191453385063,
+    "total_length": 0.4141314674836965,
+    "sleeve_length": 0.0,
+    "chest_width": 0.424669777480601,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "00574.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2446978816168991,
+    "total_length": 0.396820350929775,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4293260259976456,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "01922.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23969694420087737,
+    "total_length": 0.36743714027421925,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44255045124208214,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "04417.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23075251159592958,
+    "total_length": 0.6150445348617655,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4169039452346569,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "04397.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24293635029907912,
+    "total_length": 0.570034317457534,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4267905840771077,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "06162.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23548562012853622,
+    "total_length": 0.6610535721763604,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4180337331109334,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "01941.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23988592003243328,
+    "total_length": 0.48131477624127916,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4568381285071117,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "03385.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2409852428455284,
+    "total_length": 0.4285456846131664,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4578941878962157,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "07113.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23657108516579936,
+    "total_length": 0.49485917934970347,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4143704022521366,
+    "pointcloud_num": 1956
+  },
+  {
+    "file_name": "01932.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2430473421869964,
+    "total_length": 0.6445216481543569,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42019091043520407,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "02699.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2327304463381692,
+    "total_length": 0.5726208558755451,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4215730866189795,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "06777.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24821470922921834,
+    "total_length": 0.6633402165457382,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4343888048708122,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "01072.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2448890587595907,
+    "total_length": 0.4166334017324689,
+    "sleeve_length": 0.0,
+    "chest_width": 0.46366467456324834,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "00976.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2369527146874859,
+    "total_length": 0.5165959606630633,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42613691944335186,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "01167.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24305864908222105,
+    "total_length": 0.6357968706261097,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43804006961409947,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "01091.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2412300078817704,
+    "total_length": 0.5058702325008595,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4303682232230337,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05701.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23472453858228393,
+    "total_length": 0.38006205771919305,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4198499265918324,
+    "pointcloud_num": 1364
+  },
+  {
+    "file_name": "02068.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23847599481712564,
+    "total_length": 0.406560287171186,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41383298108740396,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "03770.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.25173286016076774,
+    "total_length": 0.4627797648360637,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4598816850972248,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "06412.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23579427330701552,
+    "total_length": 0.5705782193773163,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4462260943275903,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "02491.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22969519119127127,
+    "total_length": 0.5786334755750143,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4195450913266139,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "02697.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24410277413057493,
+    "total_length": 0.43742482116131537,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44960877387823206,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "01396.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2373860593148177,
+    "total_length": 0.5318343942345143,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41434563971969607,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "00313.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24688523247328004,
+    "total_length": 0.6282860985183153,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4433265943321677,
+    "pointcloud_num": 2468
+  },
+  {
+    "file_name": "04507.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2263177887029276,
+    "total_length": 0.5469788457975209,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4158362148967578,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "07282.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2387299340761562,
+    "total_length": 0.5076015762502366,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4363029543910034,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "04282.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23446881311464182,
+    "total_length": 0.4738334759444726,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41826603425534425,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "00067.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.230068155992707,
+    "total_length": 0.4915443382340839,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42901591836200637,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "00855.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2430983634111707,
+    "total_length": 0.357503102052294,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4505204976587228,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "04172.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23264480110525446,
+    "total_length": 0.5792760480494432,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4234777857840649,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "06106.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23226891769351896,
+    "total_length": 0.4643130455634899,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4308544102555901,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "05496.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.25290254840639026,
+    "total_length": 0.459360660562207,
+    "sleeve_length": 0.0,
+    "chest_width": 0.444169878654616,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "03992.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24739292966902415,
+    "total_length": 0.5750691535443532,
+    "sleeve_length": 0.0,
+    "chest_width": 0.429194589627067,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "05149.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24741069203997554,
+    "total_length": 0.5890490066989893,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42741518452754856,
+    "pointcloud_num": 2596
+  },
+  {
+    "file_name": "05393.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24143746641560737,
+    "total_length": 0.3540205033195248,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4616659269817136,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "03372.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24636890873054987,
+    "total_length": 0.5712580635603541,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4269822209985059,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "03479.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23771283523037037,
+    "total_length": 0.5270388950084547,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41759368191701773,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "05120.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24931710659466258,
+    "total_length": 0.42467211932241566,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43562856121822324,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "01682.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23938807252447014,
+    "total_length": 0.4358553422967593,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4463678945042183,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "00198.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23066866060746288,
+    "total_length": 0.42753034623608044,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4150811763650011,
+    "pointcloud_num": 1588
+  },
+  {
+    "file_name": "05343.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.22179393020591817,
+    "total_length": 0.40945137043307156,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41392043955262214,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "03688.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23737741012209768,
+    "total_length": 0.5784289904664157,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4181294515114483,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "03831.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23108830943936284,
+    "total_length": 0.5149501777080498,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4133508672016152,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "00176.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23419962681336295,
+    "total_length": 0.5511972159102462,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4398371362245115,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "03322.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23791260564593494,
+    "total_length": 0.542203575083883,
+    "sleeve_length": 0.0,
+    "chest_width": 0.44342903128449584,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "03540.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23500598595614855,
+    "total_length": 0.5181849689759209,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4304548739199149,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "04555.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2337327852549169,
+    "total_length": 0.4502014815001544,
+    "sleeve_length": 0.0,
+    "chest_width": 0.43174153376991253,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "00215.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24106084574842446,
+    "total_length": 0.5301227488758647,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4404370933930781,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "03964.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23533094587348402,
+    "total_length": 0.4347071615890905,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41310868742294105,
+    "pointcloud_num": 1700
+  },
+  {
+    "file_name": "06633.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.23961939692931383,
+    "total_length": 0.5038089202957282,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4243342399056076,
+    "pointcloud_num": 2084
+  },
+  {
+    "file_name": "01242.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2304136225029968,
+    "total_length": 0.5018893778765244,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4132869436685479,
+    "pointcloud_num": 2212
+  },
+  {
+    "file_name": "06869.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2515370686435878,
+    "total_length": 0.6533621422510052,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4467962988072548,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "02108.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2401740767691758,
+    "total_length": 0.35195291830604053,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4240165548078001,
+    "pointcloud_num": 1252
+  },
+  {
+    "file_name": "04185.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.24224449551593724,
+    "total_length": 0.47667283003851396,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4531743571837501,
+    "pointcloud_num": 1828
+  },
+  {
+    "file_name": "06104.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2353237868509804,
+    "total_length": 0.5480285059121724,
+    "sleeve_length": 0.0,
+    "chest_width": 0.41533894203629873,
+    "pointcloud_num": 2340
+  },
+  {
+    "file_name": "07204.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2345878257894336,
+    "total_length": 0.6272031131328053,
+    "sleeve_length": 0.0,
+    "chest_width": 0.42995785413602905,
+    "pointcloud_num": 2724
+  },
+  {
+    "file_name": "00219.obj",
+    "category": "sleeveless",
+    "shoulder_width": 0.2390313247186836,
+    "total_length": 0.39489463456247204,
+    "sleeve_length": 0.0,
+    "chest_width": 0.4388460350342621,
+    "pointcloud_num": 1476
+  },
+  {
+    "file_name": "05133.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3217199262636961,
+    "total_length": 0.4350123175329375,
+    "sleeve_length": 0.12039537560694903,
+    "chest_width": 0.46673944551379076,
+    "pointcloud_num": 4026
+  },
+  {
+    "file_name": "04074.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3100097354960977,
+    "total_length": 0.3439381443131266,
+    "sleeve_length": 0.3576089036953954,
+    "chest_width": 0.43892808205726164,
+    "pointcloud_num": 4954
+  },
+  {
+    "file_name": "07135.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31474557429143957,
+    "total_length": 0.5574847550867728,
+    "sleeve_length": 0.48454186470782146,
+    "chest_width": 0.47531628473921084,
+    "pointcloud_num": 6854
+  },
+  {
+    "file_name": "03343.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3120160064652489,
+    "total_length": 0.3356440012942294,
+    "sleeve_length": 0.22167213848801337,
+    "chest_width": 0.4432395812964518,
+    "pointcloud_num": 3898
+  },
+  {
+    "file_name": "04043.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32502330107962807,
+    "total_length": 0.5141131837478585,
+    "sleeve_length": 0.0882309147156503,
+    "chest_width": 0.45911910732724603,
+    "pointcloud_num": 4102
+  },
+  {
+    "file_name": "05126.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30830815543582346,
+    "total_length": 0.4822567752241374,
+    "sleeve_length": 0.23351333769032184,
+    "chest_width": 0.43329248988993285,
+    "pointcloud_num": 4986
+  },
+  {
+    "file_name": "07379.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3132312005535962,
+    "total_length": 0.41727725610604377,
+    "sleeve_length": 0.21386169116261722,
+    "chest_width": 0.41387540278971463,
+    "pointcloud_num": 4230
+  },
+  {
+    "file_name": "04587.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3126423146941343,
+    "total_length": 0.5496824589202981,
+    "sleeve_length": 0.12627388631151987,
+    "chest_width": 0.4157621074816531,
+    "pointcloud_num": 5146
+  },
+  {
+    "file_name": "05642.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3188858452661228,
+    "total_length": 0.33582684256557294,
+    "sleeve_length": 0.27594910933229366,
+    "chest_width": 0.4540318700215966,
+    "pointcloud_num": 4122
+  },
+  {
+    "file_name": "07026.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3176684288528592,
+    "total_length": 0.4828998732498437,
+    "sleeve_length": 0.12157806598089542,
+    "chest_width": 0.4659017299147511,
+    "pointcloud_num": 4506
+  },
+  {
+    "file_name": "03698.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3152769572638732,
+    "total_length": 0.47058397251789724,
+    "sleeve_length": 0.21448211874218878,
+    "chest_width": 0.4498836424306305,
+    "pointcloud_num": 4858
+  },
+  {
+    "file_name": "01478.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30819699223390873,
+    "total_length": 0.46338751331697137,
+    "sleeve_length": 0.2964079111665625,
+    "chest_width": 0.43079426650015085,
+    "pointcloud_num": 5370
+  },
+  {
+    "file_name": "05816.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32320666079671323,
+    "total_length": 0.46080943256099394,
+    "sleeve_length": 0.3271755149901566,
+    "chest_width": 0.4353266785201221,
+    "pointcloud_num": 5478
+  },
+  {
+    "file_name": "01852.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3191389892563734,
+    "total_length": 0.3899321464876799,
+    "sleeve_length": 0.37864687622750215,
+    "chest_width": 0.48306304180662984,
+    "pointcloud_num": 5242
+  },
+  {
+    "file_name": "02365.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.314785779539125,
+    "total_length": 0.39258229022413316,
+    "sleeve_length": 0.4330113592833805,
+    "chest_width": 0.4667157967326686,
+    "pointcloud_num": 5478
+  },
+  {
+    "file_name": "07276.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31635315207552633,
+    "total_length": 0.3870913652386994,
+    "sleeve_length": 0.2668326560589631,
+    "chest_width": 0.4423960207974186,
+    "pointcloud_num": 4454
+  },
+  {
+    "file_name": "06454.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3221597140568452,
+    "total_length": 0.45362375666632154,
+    "sleeve_length": 0.30038816682436453,
+    "chest_width": 0.4515258616060579,
+    "pointcloud_num": 5338
+  },
+  {
+    "file_name": "02495.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31094278200149694,
+    "total_length": 0.42348874790008967,
+    "sleeve_length": 0.3527354403095472,
+    "chest_width": 0.46282879467708127,
+    "pointcloud_num": 5434
+  },
+  {
+    "file_name": "05920.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31176051892603285,
+    "total_length": 0.3710311066703405,
+    "sleeve_length": 0.23190729888605,
+    "chest_width": 0.4306402598465411,
+    "pointcloud_num": 3878
+  },
+  {
+    "file_name": "05955.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3152393707223366,
+    "total_length": 0.5190170336926191,
+    "sleeve_length": 0.443483032742265,
+    "chest_width": 0.4384052530282303,
+    "pointcloud_num": 6906
+  },
+  {
+    "file_name": "05207.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.315871676717669,
+    "total_length": 0.6002367103284906,
+    "sleeve_length": 0.24522499999606312,
+    "chest_width": 0.45030027148570373,
+    "pointcloud_num": 5914
+  },
+  {
+    "file_name": "02720.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30740447655128667,
+    "total_length": 0.30980541944312845,
+    "sleeve_length": 0.39524399285332307,
+    "chest_width": 0.4372630809522927,
+    "pointcloud_num": 4742
+  },
+  {
+    "file_name": "07358.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31236682844164215,
+    "total_length": 0.4649356789088511,
+    "sleeve_length": 0.1560935973010889,
+    "chest_width": 0.4217657520624509,
+    "pointcloud_num": 4486
+  },
+  {
+    "file_name": "01534.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3110932448043049,
+    "total_length": 0.5169371270718637,
+    "sleeve_length": 0.2212246316748775,
+    "chest_width": 0.4141606299151,
+    "pointcloud_num": 5626
+  },
+  {
+    "file_name": "00546.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.310646343363621,
+    "total_length": 0.4327858023878575,
+    "sleeve_length": 0.1724872972935798,
+    "chest_width": 0.43535955059437537,
+    "pointcloud_num": 4134
+  },
+  {
+    "file_name": "07048.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31723226400618065,
+    "total_length": 0.41505501170633285,
+    "sleeve_length": 0.06537772915814828,
+    "chest_width": 0.43251831707443356,
+    "pointcloud_num": 3494
+  },
+  {
+    "file_name": "03892.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3099243626154883,
+    "total_length": 0.5189611460910756,
+    "sleeve_length": 0.2745213707576044,
+    "chest_width": 0.43527724646863364,
+    "pointcloud_num": 5562
+  },
+  {
+    "file_name": "03523.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3182212901673634,
+    "total_length": 0.3620698014756057,
+    "sleeve_length": 0.4488425411576004,
+    "chest_width": 0.4357334216259692,
+    "pointcloud_num": 5446
+  },
+  {
+    "file_name": "03660.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3113544776840095,
+    "total_length": 0.5029669798281426,
+    "sleeve_length": 0.2729762397688923,
+    "chest_width": 0.46071477806216643,
+    "pointcloud_num": 5402
+  },
+  {
+    "file_name": "02059.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3144934818185429,
+    "total_length": 0.45314445544429915,
+    "sleeve_length": 0.45107294043402046,
+    "chest_width": 0.4431837389936798,
+    "pointcloud_num": 6234
+  },
+  {
+    "file_name": "03280.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3134699108576744,
+    "total_length": 0.4026094187731238,
+    "sleeve_length": 0.45081004297904637,
+    "chest_width": 0.41985297420098866,
+    "pointcloud_num": 5766
+  },
+  {
+    "file_name": "05412.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3169929061861239,
+    "total_length": 0.4906558298653468,
+    "sleeve_length": 0.14782752296285473,
+    "chest_width": 0.44039298234724744,
+    "pointcloud_num": 4646
+  },
+  {
+    "file_name": "06913.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31627387243994737,
+    "total_length": 0.3497945670197263,
+    "sleeve_length": 0.4400612443228926,
+    "chest_width": 0.4509641413228854,
+    "pointcloud_num": 3654
+  },
+  {
+    "file_name": "00138.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30956129634658147,
+    "total_length": 0.42434128595890114,
+    "sleeve_length": 0.11902998800747053,
+    "chest_width": 0.4702505996340425,
+    "pointcloud_num": 3866
+  },
+  {
+    "file_name": "03470.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31761631128056905,
+    "total_length": 0.46817741621384307,
+    "sleeve_length": 0.3475908737212293,
+    "chest_width": 0.446462430017582,
+    "pointcloud_num": 5606
+  },
+  {
+    "file_name": "04129.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3188518514765257,
+    "total_length": 0.5099076827871394,
+    "sleeve_length": 0.24782984735839614,
+    "chest_width": 0.4631213544515742,
+    "pointcloud_num": 5274
+  },
+  {
+    "file_name": "00243.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.325342275575921,
+    "total_length": 0.39764817774776573,
+    "sleeve_length": 0.2008695692191715,
+    "chest_width": 0.5022696692678494,
+    "pointcloud_num": 3910
+  },
+  {
+    "file_name": "05699.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3227971171611784,
+    "total_length": 0.5288946659475389,
+    "sleeve_length": 0.3949595210399585,
+    "chest_width": 0.43638591074320043,
+    "pointcloud_num": 6342
+  },
+  {
+    "file_name": "06753.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3074322191781664,
+    "total_length": 0.3157367374540125,
+    "sleeve_length": 0.12425565448108503,
+    "chest_width": 0.42168629735718166,
+    "pointcloud_num": 3098
+  },
+  {
+    "file_name": "05041.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31873038300292705,
+    "total_length": 0.5228847202399833,
+    "sleeve_length": 0.21144161110265625,
+    "chest_width": 0.4636229206959721,
+    "pointcloud_num": 5158
+  },
+  {
+    "file_name": "01576.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31305786068108293,
+    "total_length": 0.4236367634227901,
+    "sleeve_length": 0.4727135691492674,
+    "chest_width": 0.4469318055042968,
+    "pointcloud_num": 6054
+  },
+  {
+    "file_name": "01126.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.310001065131451,
+    "total_length": 0.5260824395375622,
+    "sleeve_length": 0.2317176867106595,
+    "chest_width": 0.4255403795638414,
+    "pointcloud_num": 5754
+  },
+  {
+    "file_name": "03014.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3132932338931972,
+    "total_length": 0.3620273971875912,
+    "sleeve_length": 0.1499389577828554,
+    "chest_width": 0.47212584378020284,
+    "pointcloud_num": 3526
+  },
+  {
+    "file_name": "01085.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32204601962333795,
+    "total_length": 0.5977954088938808,
+    "sleeve_length": 0.20354200757871535,
+    "chest_width": 0.4663788896104749,
+    "pointcloud_num": 5498
+  },
+  {
+    "file_name": "03732.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3207605297090557,
+    "total_length": 0.507195872513196,
+    "sleeve_length": 0.3161936424996008,
+    "chest_width": 0.42669830553905375,
+    "pointcloud_num": 5798
+  },
+  {
+    "file_name": "05483.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32028652480838926,
+    "total_length": 0.4563205023165759,
+    "sleeve_length": 0.4404859384236318,
+    "chest_width": 0.449440494491972,
+    "pointcloud_num": 5958
+  },
+  {
+    "file_name": "05012.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32116300624122907,
+    "total_length": 0.5151679776860973,
+    "sleeve_length": 0.3362491979562529,
+    "chest_width": 0.4272912110378667,
+    "pointcloud_num": 5798
+  },
+  {
+    "file_name": "06001.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3067344094757037,
+    "total_length": 0.37585795663265237,
+    "sleeve_length": 0.37267155471947805,
+    "chest_width": 0.439217052378704,
+    "pointcloud_num": 5094
+  },
+  {
+    "file_name": "00689.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3229540400280181,
+    "total_length": 0.49620889753778435,
+    "sleeve_length": 0.2848263985722017,
+    "chest_width": 0.4716472318149446,
+    "pointcloud_num": 5222
+  },
+  {
+    "file_name": "02676.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32555133787086504,
+    "total_length": 0.3651555996587597,
+    "sleeve_length": 0.4675708568632485,
+    "chest_width": 0.47690518220278444,
+    "pointcloud_num": 5722
+  },
+  {
+    "file_name": "03875.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3177226821962543,
+    "total_length": 0.527118466134318,
+    "sleeve_length": 0.24909670610356394,
+    "chest_width": 0.4475190828868354,
+    "pointcloud_num": 5286
+  },
+  {
+    "file_name": "03033.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31242581608649894,
+    "total_length": 0.4490359286449881,
+    "sleeve_length": 0.20905213483383597,
+    "chest_width": 0.4321596693575508,
+    "pointcloud_num": 4550
+  },
+  {
+    "file_name": "06048.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3138494238013192,
+    "total_length": 0.5283263816298084,
+    "sleeve_length": 0.41874523465457153,
+    "chest_width": 0.4545284952807952,
+    "pointcloud_num": 6458
+  },
+  {
+    "file_name": "06254.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31908421943868437,
+    "total_length": 0.32735218062647076,
+    "sleeve_length": 0.06464585245800347,
+    "chest_width": 0.44219596196355093,
+    "pointcloud_num": 2842
+  },
+  {
+    "file_name": "01172.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3212109088318342,
+    "total_length": 0.5717612510458014,
+    "sleeve_length": 0.2700704903919135,
+    "chest_width": 0.4617494822575664,
+    "pointcloud_num": 6042
+  },
+  {
+    "file_name": "04148.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31217550150075346,
+    "total_length": 0.3287454187009265,
+    "sleeve_length": 0.2711275524899183,
+    "chest_width": 0.44249888171979823,
+    "pointcloud_num": 4122
+  },
+  {
+    "file_name": "02952.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.316303012324681,
+    "total_length": 0.5678733580520429,
+    "sleeve_length": 0.11851827665073963,
+    "chest_width": 0.46860718614864905,
+    "pointcloud_num": 4838
+  },
+  {
+    "file_name": "02147.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3157833550970894,
+    "total_length": 0.3698576018954165,
+    "sleeve_length": 0.17535692390435584,
+    "chest_width": 0.42266879775833655,
+    "pointcloud_num": 3654
+  },
+  {
+    "file_name": "07591.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32105963237044954,
+    "total_length": 0.379675966261659,
+    "sleeve_length": 0.19145833517157737,
+    "chest_width": 0.44999674574769133,
+    "pointcloud_num": 3930
+  },
+  {
+    "file_name": "00258.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32787761513418134,
+    "total_length": 0.4936666746584792,
+    "sleeve_length": 0.14602622745631097,
+    "chest_width": 0.4391875209658951,
+    "pointcloud_num": 4486
+  },
+  {
+    "file_name": "06833.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3202946858342008,
+    "total_length": 0.34435123477001456,
+    "sleeve_length": 0.42780545838025985,
+    "chest_width": 0.5019746491826816,
+    "pointcloud_num": 4870
+  },
+  {
+    "file_name": "06220.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3055946772105771,
+    "total_length": 0.32589279385457043,
+    "sleeve_length": 0.07316195150145847,
+    "chest_width": 0.41758937885913416,
+    "pointcloud_num": 3002
+  },
+  {
+    "file_name": "07195.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3125868065977088,
+    "total_length": 0.5173031675168455,
+    "sleeve_length": 0.12284980506742428,
+    "chest_width": 0.4372197075140304,
+    "pointcloud_num": 4518
+  },
+  {
+    "file_name": "07386.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3194924172901765,
+    "total_length": 0.4539763105032498,
+    "sleeve_length": 0.08846032857145027,
+    "chest_width": 0.4527460037080294,
+    "pointcloud_num": 3782
+  },
+  {
+    "file_name": "01273.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.313599396786815,
+    "total_length": 0.43887821993550863,
+    "sleeve_length": 0.10167933042098004,
+    "chest_width": 0.4404201876498042,
+    "pointcloud_num": 3910
+  },
+  {
+    "file_name": "03571.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.313057319073289,
+    "total_length": 0.3682333712396547,
+    "sleeve_length": 0.11053048063610342,
+    "chest_width": 0.42910759644420426,
+    "pointcloud_num": 3270
+  },
+  {
+    "file_name": "05148.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3114549697056111,
+    "total_length": 0.485692246772379,
+    "sleeve_length": 0.17954272012538383,
+    "chest_width": 0.4640641066067174,
+    "pointcloud_num": 4890
+  },
+  {
+    "file_name": "00704.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3168267823567108,
+    "total_length": 0.51272135277507,
+    "sleeve_length": 0.26755830547619713,
+    "chest_width": 0.4226779625282885,
+    "pointcloud_num": 5722
+  },
+  {
+    "file_name": "01141.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31716357000909934,
+    "total_length": 0.513033949067475,
+    "sleeve_length": 0.1255575065175237,
+    "chest_width": 0.42952561929556154,
+    "pointcloud_num": 4518
+  },
+  {
+    "file_name": "03234.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31763482575421204,
+    "total_length": 0.4245495034470683,
+    "sleeve_length": 0.36998367741056837,
+    "chest_width": 0.41869485633634373,
+    "pointcloud_num": 5254
+  },
+  {
+    "file_name": "01462.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31375687194902974,
+    "total_length": 0.5404168640735347,
+    "sleeve_length": 0.18754765687920644,
+    "chest_width": 0.41969660666931385,
+    "pointcloud_num": 5542
+  },
+  {
+    "file_name": "07516.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3087775708577903,
+    "total_length": 0.3290035198356655,
+    "sleeve_length": 0.11808214159347316,
+    "chest_width": 0.41533709602594726,
+    "pointcloud_num": 3386
+  },
+  {
+    "file_name": "02593.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3150633866989642,
+    "total_length": 0.3973921993890816,
+    "sleeve_length": 0.20430324087899013,
+    "chest_width": 0.44349802105026637,
+    "pointcloud_num": 4070
+  },
+  {
+    "file_name": "06603.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31443700152902504,
+    "total_length": 0.3697866783183763,
+    "sleeve_length": 0.1135203637052186,
+    "chest_width": 0.45433300813823874,
+    "pointcloud_num": 3578
+  },
+  {
+    "file_name": "07008.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32031667439576006,
+    "total_length": 0.44672751148452805,
+    "sleeve_length": 0.4585961464728403,
+    "chest_width": 0.44027619895913916,
+    "pointcloud_num": 6054
+  },
+  {
+    "file_name": "03096.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31287406147754515,
+    "total_length": 0.5937053437847627,
+    "sleeve_length": 0.35804508662220574,
+    "chest_width": 0.417353962521293,
+    "pointcloud_num": 6566
+  },
+  {
+    "file_name": "05072.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32009111625292413,
+    "total_length": 0.3846552016585193,
+    "sleeve_length": 0.3471985131127822,
+    "chest_width": 0.44674830872851756,
+    "pointcloud_num": 5126
+  },
+  {
+    "file_name": "00238.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31746304121480556,
+    "total_length": 0.50743390245056,
+    "sleeve_length": 0.36330787742724896,
+    "chest_width": 0.4487935878254584,
+    "pointcloud_num": 6042
+  },
+  {
+    "file_name": "03368.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31626812247817315,
+    "total_length": 0.4509663581029037,
+    "sleeve_length": 0.1302256169099485,
+    "chest_width": 0.4403729902387905,
+    "pointcloud_num": 4026
+  },
+  {
+    "file_name": "03709.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3011451275338873,
+    "total_length": 0.48814422364255045,
+    "sleeve_length": 0.12318902702908041,
+    "chest_width": 0.4315571203495401,
+    "pointcloud_num": 4826
+  },
+  {
+    "file_name": "03956.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30598398196274224,
+    "total_length": 0.43490865710210724,
+    "sleeve_length": 0.376761140844364,
+    "chest_width": 0.45256556653438373,
+    "pointcloud_num": 5562
+  },
+  {
+    "file_name": "04278.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31959736013919116,
+    "total_length": 0.44651690836030844,
+    "sleeve_length": 0.17053030927813873,
+    "chest_width": 0.4629937584109042,
+    "pointcloud_num": 4282
+  },
+  {
+    "file_name": "00380.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3114741728079816,
+    "total_length": 0.40472826025158554,
+    "sleeve_length": 0.25626948792517734,
+    "chest_width": 0.4393036816609266,
+    "pointcloud_num": 4762
+  },
+  {
+    "file_name": "02266.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3087124321583243,
+    "total_length": 0.4420456071931249,
+    "sleeve_length": 0.3235320405107848,
+    "chest_width": 0.4156330452670468,
+    "pointcloud_num": 5626
+  },
+  {
+    "file_name": "06238.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31470681442697634,
+    "total_length": 0.47746962124328163,
+    "sleeve_length": 0.18093938534031184,
+    "chest_width": 0.43592350474023056,
+    "pointcloud_num": 4890
+  },
+  {
+    "file_name": "04301.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32538307670322625,
+    "total_length": 0.6214037929857544,
+    "sleeve_length": 0.4194670646669894,
+    "chest_width": 0.4805371595783612,
+    "pointcloud_num": 6938
+  },
+  {
+    "file_name": "00659.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3038617254515386,
+    "total_length": 0.42886549215753667,
+    "sleeve_length": 0.1673024097001158,
+    "chest_width": 0.41452439800122115,
+    "pointcloud_num": 4282
+  },
+  {
+    "file_name": "00402.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.329296397117198,
+    "total_length": 0.5075624525250448,
+    "sleeve_length": 0.1199717050604354,
+    "chest_width": 0.4698117723028524,
+    "pointcloud_num": 4518
+  },
+  {
+    "file_name": "03886.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32554397878198016,
+    "total_length": 0.4869571453441673,
+    "sleeve_length": 0.3221880865409775,
+    "chest_width": 0.43792960626029975,
+    "pointcloud_num": 5626
+  },
+  {
+    "file_name": "03003.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3115644862562864,
+    "total_length": 0.31773746111560125,
+    "sleeve_length": 0.12425048847359159,
+    "chest_width": 0.4438376559983933,
+    "pointcloud_num": 3078
+  },
+  {
+    "file_name": "01223.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3149578911095676,
+    "total_length": 0.42229663509919824,
+    "sleeve_length": 0.22962428748675595,
+    "chest_width": 0.4295761366350117,
+    "pointcloud_num": 4506
+  },
+  {
+    "file_name": "01132.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3149753278612936,
+    "total_length": 0.37732799053730665,
+    "sleeve_length": 0.16928107287420155,
+    "chest_width": 0.4570332928734018,
+    "pointcloud_num": 3802
+  },
+  {
+    "file_name": "06772.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3116139412772517,
+    "total_length": 0.3240552683705057,
+    "sleeve_length": 0.337855120643993,
+    "chest_width": 0.44574120884211843,
+    "pointcloud_num": 4358
+  },
+  {
+    "file_name": "06972.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3187869129362058,
+    "total_length": 0.5853734046144563,
+    "sleeve_length": 0.40093907721801453,
+    "chest_width": 0.4597596031395852,
+    "pointcloud_num": 6662
+  },
+  {
+    "file_name": "07365.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3168118427638223,
+    "total_length": 0.5408534916975134,
+    "sleeve_length": 0.08695974334283509,
+    "chest_width": 0.422816895658617,
+    "pointcloud_num": 4730
+  },
+  {
+    "file_name": "07673.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.311661524313265,
+    "total_length": 0.4112940218834606,
+    "sleeve_length": 0.09007014557200213,
+    "chest_width": 0.43287465806839653,
+    "pointcloud_num": 3622
+  },
+  {
+    "file_name": "00628.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30751354793376456,
+    "total_length": 0.34960892499131313,
+    "sleeve_length": 0.07040673725126328,
+    "chest_width": 0.4370912992268914,
+    "pointcloud_num": 2854
+  },
+  {
+    "file_name": "04279.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3206654607319286,
+    "total_length": 0.4130074211833136,
+    "sleeve_length": 0.06562825789561319,
+    "chest_width": 0.4501077887347851,
+    "pointcloud_num": 3482
+  },
+  {
+    "file_name": "00564.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31738816383164287,
+    "total_length": 0.3417203784364988,
+    "sleeve_length": 0.46080117802166864,
+    "chest_width": 0.4460163112717226,
+    "pointcloud_num": 5286
+  },
+  {
+    "file_name": "02229.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31900395925985436,
+    "total_length": 0.49868269516386526,
+    "sleeve_length": 0.3248446138935141,
+    "chest_width": 0.47059915908441075,
+    "pointcloud_num": 5638
+  },
+  {
+    "file_name": "04255.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3084004569887495,
+    "total_length": 0.47306966776801557,
+    "sleeve_length": 0.39758015114528517,
+    "chest_width": 0.41528869965450294,
+    "pointcloud_num": 6182
+  },
+  {
+    "file_name": "06738.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32065021804602234,
+    "total_length": 0.47039267708773,
+    "sleeve_length": 0.4192412695519949,
+    "chest_width": 0.46311879153041646,
+    "pointcloud_num": 5830
+  },
+  {
+    "file_name": "06512.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3079450044025219,
+    "total_length": 0.4924052045172261,
+    "sleeve_length": 0.27310127008080964,
+    "chest_width": 0.41832225809036716,
+    "pointcloud_num": 5722
+  },
+  {
+    "file_name": "01162.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32233242989306937,
+    "total_length": 0.44515415278968873,
+    "sleeve_length": 0.27108109546404424,
+    "chest_width": 0.4390014471431688,
+    "pointcloud_num": 5094
+  },
+  {
+    "file_name": "01771.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31259177693243456,
+    "total_length": 0.33351563197370676,
+    "sleeve_length": 0.3361525772903818,
+    "chest_width": 0.42161245943519143,
+    "pointcloud_num": 4506
+  },
+  {
+    "file_name": "00231.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31825940181113854,
+    "total_length": 0.38076756087591873,
+    "sleeve_length": 0.3711535577601688,
+    "chest_width": 0.43483374680703624,
+    "pointcloud_num": 5254
+  },
+  {
+    "file_name": "06060.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3193191192722395,
+    "total_length": 0.43359766099879166,
+    "sleeve_length": 0.30472679024939114,
+    "chest_width": 0.4356706230532206,
+    "pointcloud_num": 5190
+  },
+  {
+    "file_name": "02277.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31338403817864274,
+    "total_length": 0.43914299549051805,
+    "sleeve_length": 0.4209771271777205,
+    "chest_width": 0.4329973885590086,
+    "pointcloud_num": 6118
+  },
+  {
+    "file_name": "00137.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3178211018374373,
+    "total_length": 0.3687956750623682,
+    "sleeve_length": 0.3997371278928078,
+    "chest_width": 0.44944515199428825,
+    "pointcloud_num": 5050
+  },
+  {
+    "file_name": "00355.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3170447551963803,
+    "total_length": 0.48781814780324456,
+    "sleeve_length": 0.16793994284962796,
+    "chest_width": 0.45677472246441164,
+    "pointcloud_num": 4602
+  },
+  {
+    "file_name": "00959.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3081528357135041,
+    "total_length": 0.31845602019014885,
+    "sleeve_length": 0.3373138052894467,
+    "chest_width": 0.44141074662546376,
+    "pointcloud_num": 4506
+  },
+  {
+    "file_name": "00686.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31892370495092337,
+    "total_length": 0.4625728091813843,
+    "sleeve_length": 0.3769171057996638,
+    "chest_width": 0.4570373483033313,
+    "pointcloud_num": 5562
+  },
+  {
+    "file_name": "04325.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3128430396869761,
+    "total_length": 0.3566530266544419,
+    "sleeve_length": 0.413944340145236,
+    "chest_width": 0.44007913633610174,
+    "pointcloud_num": 5030
+  },
+  {
+    "file_name": "06445.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32127278221007444,
+    "total_length": 0.35318615066321335,
+    "sleeve_length": 0.4864919377446334,
+    "chest_width": 0.4325981984446903,
+    "pointcloud_num": 5562
+  },
+  {
+    "file_name": "06538.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31790053539594265,
+    "total_length": 0.3392388205751555,
+    "sleeve_length": 0.2903614702039315,
+    "chest_width": 0.42657382376938147,
+    "pointcloud_num": 4410
+  },
+  {
+    "file_name": "04510.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3110453196265544,
+    "total_length": 0.5496238361946975,
+    "sleeve_length": 0.3332514822130539,
+    "chest_width": 0.42141491760897964,
+    "pointcloud_num": 6438
+  },
+  {
+    "file_name": "03990.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3191967848799982,
+    "total_length": 0.4390886727052287,
+    "sleeve_length": 0.4295959505867627,
+    "chest_width": 0.4720871015793624,
+    "pointcloud_num": 5658
+  },
+  {
+    "file_name": "06597.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3164333848342988,
+    "total_length": 0.39128568381191015,
+    "sleeve_length": 0.18236303412158034,
+    "chest_width": 0.4264606152430258,
+    "pointcloud_num": 4090
+  },
+  {
+    "file_name": "03582.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3106339948366009,
+    "total_length": 0.41929979969213116,
+    "sleeve_length": 0.07646714671802865,
+    "chest_width": 0.44899474420487306,
+    "pointcloud_num": 3622
+  },
+  {
+    "file_name": "05673.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31415717522119246,
+    "total_length": 0.41518363016669607,
+    "sleeve_length": 0.42308235905606717,
+    "chest_width": 0.44622921166174956,
+    "pointcloud_num": 5510
+  },
+  {
+    "file_name": "06842.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3067511394487753,
+    "total_length": 0.5328749326502294,
+    "sleeve_length": 0.13010472856981864,
+    "chest_width": 0.4155051503353045,
+    "pointcloud_num": 4826
+  },
+  {
+    "file_name": "00373.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3186506140842721,
+    "total_length": 0.3308730677665086,
+    "sleeve_length": 0.10478821229068161,
+    "chest_width": 0.426710654118979,
+    "pointcloud_num": 3098
+  },
+  {
+    "file_name": "01824.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30729285258506484,
+    "total_length": 0.35586821474748814,
+    "sleeve_length": 0.4597368313037202,
+    "chest_width": 0.4452131625287422,
+    "pointcloud_num": 5446
+  },
+  {
+    "file_name": "00421.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3265751151511676,
+    "total_length": 0.5088993004939949,
+    "sleeve_length": 0.12815989580443687,
+    "chest_width": 0.45132578149774283,
+    "pointcloud_num": 4358
+  },
+  {
+    "file_name": "06393.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31379066343563844,
+    "total_length": 0.5552735471632675,
+    "sleeve_length": 0.4095758298438106,
+    "chest_width": 0.4297131338192075,
+    "pointcloud_num": 6618
+  },
+  {
+    "file_name": "07312.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3277719485436565,
+    "total_length": 0.39504674849967586,
+    "sleeve_length": 0.12224140191801634,
+    "chest_width": 0.4715572733136666,
+    "pointcloud_num": 3558
+  },
+  {
+    "file_name": "05205.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3159894827838487,
+    "total_length": 0.373561840077548,
+    "sleeve_length": 0.10118413887132988,
+    "chest_width": 0.417266166793654,
+    "pointcloud_num": 3418
+  },
+  {
+    "file_name": "04673.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31538939149991213,
+    "total_length": 0.5270273661910846,
+    "sleeve_length": 0.20864558975406708,
+    "chest_width": 0.4334888795349672,
+    "pointcloud_num": 5190
+  },
+  {
+    "file_name": "00262.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31421602358561157,
+    "total_length": 0.5527372038534162,
+    "sleeve_length": 0.27718963231891486,
+    "chest_width": 0.4117151626506082,
+    "pointcloud_num": 6170
+  },
+  {
+    "file_name": "04202.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3131010272371878,
+    "total_length": 0.40208281369798937,
+    "sleeve_length": 0.12216802657522001,
+    "chest_width": 0.4600848975855796,
+    "pointcloud_num": 3866
+  },
+  {
+    "file_name": "06186.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3145317613388608,
+    "total_length": 0.32010215801163405,
+    "sleeve_length": 0.24373905983208857,
+    "chest_width": 0.4388517080151978,
+    "pointcloud_num": 3994
+  },
+  {
+    "file_name": "00593.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3158373594716284,
+    "total_length": 0.4097047005089357,
+    "sleeve_length": 0.3534613544195472,
+    "chest_width": 0.4356357347562333,
+    "pointcloud_num": 5274
+  },
+  {
+    "file_name": "06347.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3183852845843652,
+    "total_length": 0.32232447694060684,
+    "sleeve_length": 0.3292067322826283,
+    "chest_width": 0.4290214852060852,
+    "pointcloud_num": 4506
+  },
+  {
+    "file_name": "06769.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31639868749344063,
+    "total_length": 0.4573208121537774,
+    "sleeve_length": 0.22138535861470693,
+    "chest_width": 0.45211593688686325,
+    "pointcloud_num": 4826
+  },
+  {
+    "file_name": "03314.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3194324259833312,
+    "total_length": 0.6037148552527066,
+    "sleeve_length": 0.1469892206665853,
+    "chest_width": 0.45150008455850377,
+    "pointcloud_num": 5286
+  },
+  {
+    "file_name": "01442.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3188390919099083,
+    "total_length": 0.37254195141009505,
+    "sleeve_length": 0.17838104598455104,
+    "chest_width": 0.4499765525023568,
+    "pointcloud_num": 3942
+  },
+  {
+    "file_name": "06418.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3077272332017897,
+    "total_length": 0.30910990858002185,
+    "sleeve_length": 0.2565958794803941,
+    "chest_width": 0.4297900255192926,
+    "pointcloud_num": 3994
+  },
+  {
+    "file_name": "03535.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31652824530614293,
+    "total_length": 0.34695130811725994,
+    "sleeve_length": 0.33064037809906055,
+    "chest_width": 0.43799247253918516,
+    "pointcloud_num": 4666
+  },
+  {
+    "file_name": "00333.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.316689982624984,
+    "total_length": 0.4433435938752825,
+    "sleeve_length": 0.1777430908330747,
+    "chest_width": 0.41708543522746333,
+    "pointcloud_num": 4934
+  },
+  {
+    "file_name": "06730.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31739484337536344,
+    "total_length": 0.40419174838351846,
+    "sleeve_length": 0.06945734173710727,
+    "chest_width": 0.49056633752475465,
+    "pointcloud_num": 3322
+  },
+  {
+    "file_name": "06499.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3064516035749129,
+    "total_length": 0.4030406211303623,
+    "sleeve_length": 0.46295206809133527,
+    "chest_width": 0.41315219171135004,
+    "pointcloud_num": 5766
+  },
+  {
+    "file_name": "04297.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31584485788195404,
+    "total_length": 0.4175682003329499,
+    "sleeve_length": 0.2708051052347697,
+    "chest_width": 0.4305810304443771,
+    "pointcloud_num": 4614
+  },
+  {
+    "file_name": "02528.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32513713626933943,
+    "total_length": 0.37789152838654094,
+    "sleeve_length": 0.08844316572420177,
+    "chest_width": 0.4955919608524698,
+    "pointcloud_num": 3130
+  },
+  {
+    "file_name": "01163.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32495636491830254,
+    "total_length": 0.591165117155635,
+    "sleeve_length": 0.39475710608267,
+    "chest_width": 0.4770980243921481,
+    "pointcloud_num": 6662
+  },
+  {
+    "file_name": "01154.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3134913022070116,
+    "total_length": 0.49775141744079704,
+    "sleeve_length": 0.34185051699599195,
+    "chest_width": 0.4619465175484825,
+    "pointcloud_num": 5638
+  },
+  {
+    "file_name": "06638.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31334996748528543,
+    "total_length": 0.5432865187629513,
+    "sleeve_length": 0.23623426721703278,
+    "chest_width": 0.43827819226337106,
+    "pointcloud_num": 5626
+  },
+  {
+    "file_name": "00893.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3201929577247736,
+    "total_length": 0.3511340266407402,
+    "sleeve_length": 0.2060718557401895,
+    "chest_width": 0.4420303779209803,
+    "pointcloud_num": 3898
+  },
+  {
+    "file_name": "03024.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30788006215613706,
+    "total_length": 0.6327671376702547,
+    "sleeve_length": 0.2970095824618243,
+    "chest_width": 0.4268640348288053,
+    "pointcloud_num": 6330
+  },
+  {
+    "file_name": "03976.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3125433068131481,
+    "total_length": 0.3865426029991607,
+    "sleeve_length": 0.1891419892059448,
+    "chest_width": 0.41151359653421304,
+    "pointcloud_num": 4102
+  },
+  {
+    "file_name": "01238.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3285412621428862,
+    "total_length": 0.6184056943607344,
+    "sleeve_length": 0.385283031227365,
+    "chest_width": 0.46549157763116134,
+    "pointcloud_num": 6810
+  },
+  {
+    "file_name": "05091.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3116279306700892,
+    "total_length": 0.4728691422200738,
+    "sleeve_length": 0.314150595572135,
+    "chest_width": 0.4546696667793827,
+    "pointcloud_num": 5498
+  },
+  {
+    "file_name": "02243.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3155193051368716,
+    "total_length": 0.4164013556543908,
+    "sleeve_length": 0.44218716480243325,
+    "chest_width": 0.4253875472223363,
+    "pointcloud_num": 5798
+  },
+  {
+    "file_name": "01357.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31633895125878847,
+    "total_length": 0.43709956282286544,
+    "sleeve_length": 0.20236776191794442,
+    "chest_width": 0.4360060729977946,
+    "pointcloud_num": 4550
+  },
+  {
+    "file_name": "03004.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3096856692258108,
+    "total_length": 0.39002585464284395,
+    "sleeve_length": 0.3650588928629015,
+    "chest_width": 0.421149235898823,
+    "pointcloud_num": 5114
+  },
+  {
+    "file_name": "01380.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31045685000418843,
+    "total_length": 0.32955997002175175,
+    "sleeve_length": 0.41790788458967265,
+    "chest_width": 0.41905893717479914,
+    "pointcloud_num": 5030
+  },
+  {
+    "file_name": "05899.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3177014242269381,
+    "total_length": 0.5222407710619005,
+    "sleeve_length": 0.22175902852019483,
+    "chest_width": 0.44291846989834516,
+    "pointcloud_num": 5146
+  },
+  {
+    "file_name": "03772.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3263955539407531,
+    "total_length": 0.47159430366616206,
+    "sleeve_length": 0.1032319867558481,
+    "chest_width": 0.42382924303266756,
+    "pointcloud_num": 4218
+  },
+  {
+    "file_name": "00041.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31478435557147905,
+    "total_length": 0.47541560636150615,
+    "sleeve_length": 0.3888589834402019,
+    "chest_width": 0.4550998960906527,
+    "pointcloud_num": 6022
+  },
+  {
+    "file_name": "05095.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31076597998753336,
+    "total_length": 0.34551395346957553,
+    "sleeve_length": 0.35056426397723706,
+    "chest_width": 0.42699693713966425,
+    "pointcloud_num": 4794
+  },
+  {
+    "file_name": "02103.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3222993723215814,
+    "total_length": 0.6094773899382154,
+    "sleeve_length": 0.4371812481559847,
+    "chest_width": 0.47097997557544247,
+    "pointcloud_num": 7078
+  },
+  {
+    "file_name": "04515.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3141295633945836,
+    "total_length": 0.46266942910698866,
+    "sleeve_length": 0.1652240073230981,
+    "chest_width": 0.4206484285544049,
+    "pointcloud_num": 4614
+  },
+  {
+    "file_name": "01538.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31528704494910104,
+    "total_length": 0.5585118697198234,
+    "sleeve_length": 0.08886664512319727,
+    "chest_width": 0.45394916403434715,
+    "pointcloud_num": 4890
+  },
+  {
+    "file_name": "01310.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3104954448562446,
+    "total_length": 0.47073537478501914,
+    "sleeve_length": 0.12702929457364556,
+    "chest_width": 0.4258630802571144,
+    "pointcloud_num": 4358
+  },
+  {
+    "file_name": "05981.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3176608182359912,
+    "total_length": 0.35363566861212525,
+    "sleeve_length": 0.32574265908230354,
+    "chest_width": 0.41501829770106247,
+    "pointcloud_num": 4826
+  },
+  {
+    "file_name": "04869.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3110151256812235,
+    "total_length": 0.3473304065501852,
+    "sleeve_length": 0.22457171683138777,
+    "chest_width": 0.45716092321620816,
+    "pointcloud_num": 3878
+  },
+  {
+    "file_name": "01409.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30900971904310526,
+    "total_length": 0.49503072569463075,
+    "sleeve_length": 0.3523145938138655,
+    "chest_width": 0.42379728900961167,
+    "pointcloud_num": 5926
+  },
+  {
+    "file_name": "04974.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31167079781998785,
+    "total_length": 0.39866584578166087,
+    "sleeve_length": 0.42361451858755955,
+    "chest_width": 0.46006275651227535,
+    "pointcloud_num": 5498
+  },
+  {
+    "file_name": "01617.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32571358538109135,
+    "total_length": 0.5142284252008117,
+    "sleeve_length": 0.2173167708730246,
+    "chest_width": 0.4745646621010401,
+    "pointcloud_num": 4998
+  },
+  {
+    "file_name": "05459.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31307640395485203,
+    "total_length": 0.5327743264262311,
+    "sleeve_length": 0.0703721589722885,
+    "chest_width": 0.4434019324139018,
+    "pointcloud_num": 4614
+  },
+  {
+    "file_name": "06237.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3148729990746946,
+    "total_length": 0.45281356838088727,
+    "sleeve_length": 0.2751744372232376,
+    "chest_width": 0.4120068812437756,
+    "pointcloud_num": 4934
+  },
+  {
+    "file_name": "00050.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32526001502736035,
+    "total_length": 0.608091123089923,
+    "sleeve_length": 0.4371544291758388,
+    "chest_width": 0.4412898390186698,
+    "pointcloud_num": 7078
+  },
+  {
+    "file_name": "02310.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3214972099645096,
+    "total_length": 0.43946813537536633,
+    "sleeve_length": 0.44349997483794223,
+    "chest_width": 0.42267785272079916,
+    "pointcloud_num": 6086
+  },
+  {
+    "file_name": "01554.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3111822701953882,
+    "total_length": 0.5745453607285741,
+    "sleeve_length": 0.4014488032738143,
+    "chest_width": 0.42041989314403994,
+    "pointcloud_num": 6662
+  },
+  {
+    "file_name": "04777.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30521688852666756,
+    "total_length": 0.3599780232996809,
+    "sleeve_length": 0.15971277497874029,
+    "chest_width": 0.4237627806852651,
+    "pointcloud_num": 3526
+  },
+  {
+    "file_name": "06075.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3143582369545986,
+    "total_length": 0.5122208795695663,
+    "sleeve_length": 0.312215016239116,
+    "chest_width": 0.45110637272978715,
+    "pointcloud_num": 5978
+  },
+  {
+    "file_name": "06889.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32386122210718166,
+    "total_length": 0.3877245803285657,
+    "sleeve_length": 0.06731035225993945,
+    "chest_width": 0.4832813221942227,
+    "pointcloud_num": 3334
+  },
+  {
+    "file_name": "02433.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3101004129190003,
+    "total_length": 0.50236242006734,
+    "sleeve_length": 0.2539267734349797,
+    "chest_width": 0.4552450104071103,
+    "pointcloud_num": 5594
+  },
+  {
+    "file_name": "04876.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3223582377709716,
+    "total_length": 0.44965882400375795,
+    "sleeve_length": 0.3891838735613713,
+    "chest_width": 0.4544176969802287,
+    "pointcloud_num": 5690
+  },
+  {
+    "file_name": "06190.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3133920903949524,
+    "total_length": 0.5014402635865567,
+    "sleeve_length": 0.2463864998821899,
+    "chest_width": 0.41708634469642725,
+    "pointcloud_num": 5446
+  },
+  {
+    "file_name": "01272.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3158497578293205,
+    "total_length": 0.4299214140195713,
+    "sleeve_length": 0.21526065148873144,
+    "chest_width": 0.4207104807750033,
+    "pointcloud_num": 4678
+  },
+  {
+    "file_name": "01165.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3129882709224513,
+    "total_length": 0.5162008662959559,
+    "sleeve_length": 0.32051918588346345,
+    "chest_width": 0.4207587400262168,
+    "pointcloud_num": 6106
+  },
+  {
+    "file_name": "00064.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3174655993783528,
+    "total_length": 0.45841809990732946,
+    "sleeve_length": 0.0609705645579861,
+    "chest_width": 0.4330481931011497,
+    "pointcloud_num": 4614
+  },
+  {
+    "file_name": "03786.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3057621579323452,
+    "total_length": 0.3275824090980345,
+    "sleeve_length": 0.09036021559792616,
+    "chest_width": 0.45719036941411306,
+    "pointcloud_num": 2970
+  },
+  {
+    "file_name": "04197.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3062074056286867,
+    "total_length": 0.4712195217292897,
+    "sleeve_length": 0.09597889072402205,
+    "chest_width": 0.4260142093636502,
+    "pointcloud_num": 4250
+  },
+  {
+    "file_name": "03394.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3206626045017032,
+    "total_length": 0.45067409945012865,
+    "sleeve_length": 0.2590079680963335,
+    "chest_width": 0.4476882225243458,
+    "pointcloud_num": 4934
+  },
+  {
+    "file_name": "05820.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3131807955865086,
+    "total_length": 0.5791307956415811,
+    "sleeve_length": 0.31025957212839783,
+    "chest_width": 0.44007519538433937,
+    "pointcloud_num": 6150
+  },
+  {
+    "file_name": "03011.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31357898240549453,
+    "total_length": 0.37352005025685353,
+    "sleeve_length": 0.15171671566352227,
+    "chest_width": 0.4373777129162325,
+    "pointcloud_num": 3686
+  },
+  {
+    "file_name": "05245.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3143448027922045,
+    "total_length": 0.33762670347769064,
+    "sleeve_length": 0.1403046692469882,
+    "chest_width": 0.46723002674821446,
+    "pointcloud_num": 3354
+  },
+  {
+    "file_name": "01240.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3095747365028875,
+    "total_length": 0.4811920038930095,
+    "sleeve_length": 0.3349657147615614,
+    "chest_width": 0.44957938315173973,
+    "pointcloud_num": 5798
+  },
+  {
+    "file_name": "05837.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31094318148965117,
+    "total_length": 0.5850072597856117,
+    "sleeve_length": 0.10233388858913897,
+    "chest_width": 0.4301037525595611,
+    "pointcloud_num": 5030
+  },
+  {
+    "file_name": "07417.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3116069823192878,
+    "total_length": 0.3692156882376819,
+    "sleeve_length": 0.2537750393083544,
+    "chest_width": 0.4304821165677083,
+    "pointcloud_num": 4166
+  },
+  {
+    "file_name": "00409.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.316281135039217,
+    "total_length": 0.5009080515863912,
+    "sleeve_length": 0.31566738005804995,
+    "chest_width": 0.44240468226994945,
+    "pointcloud_num": 5510
+  },
+  {
+    "file_name": "04900.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31395247815790706,
+    "total_length": 0.41271606262923577,
+    "sleeve_length": 0.1858929222890375,
+    "chest_width": 0.4496936261507455,
+    "pointcloud_num": 4090
+  },
+  {
+    "file_name": "01034.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30953478618620467,
+    "total_length": 0.46001013101858196,
+    "sleeve_length": 0.1487078215897581,
+    "chest_width": 0.4347595301006346,
+    "pointcloud_num": 4314
+  },
+  {
+    "file_name": "05542.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31568051322055957,
+    "total_length": 0.4870771842876844,
+    "sleeve_length": 0.2683485693262554,
+    "chest_width": 0.4545426878150455,
+    "pointcloud_num": 5414
+  },
+  {
+    "file_name": "02161.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3193928026166601,
+    "total_length": 0.4326773498680733,
+    "sleeve_length": 0.06767073692521479,
+    "chest_width": 0.43008735671056686,
+    "pointcloud_num": 3494
+  },
+  {
+    "file_name": "01063.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3166319616467377,
+    "total_length": 0.496621152043982,
+    "sleeve_length": 0.3360278812785347,
+    "chest_width": 0.4657884830879846,
+    "pointcloud_num": 5786
+  },
+  {
+    "file_name": "03207.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31787219492666097,
+    "total_length": 0.46957303863303224,
+    "sleeve_length": 0.06016324439650143,
+    "chest_width": 0.4631559605231489,
+    "pointcloud_num": 3802
+  },
+  {
+    "file_name": "05108.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3129269893439714,
+    "total_length": 0.31668610506765216,
+    "sleeve_length": 0.12754060285422977,
+    "chest_width": 0.43798468099615073,
+    "pointcloud_num": 3226
+  },
+  {
+    "file_name": "07468.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3099324623568554,
+    "total_length": 0.42984437329715974,
+    "sleeve_length": 0.25371173833734556,
+    "chest_width": 0.44505228540750674,
+    "pointcloud_num": 4646
+  },
+  {
+    "file_name": "03165.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31546247714832354,
+    "total_length": 0.5911494072780961,
+    "sleeve_length": 0.40916508637516574,
+    "chest_width": 0.4246366392240787,
+    "pointcloud_num": 6790
+  },
+  {
+    "file_name": "06173.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3123168708820624,
+    "total_length": 0.5020293326818858,
+    "sleeve_length": 0.32389054283390206,
+    "chest_width": 0.42548973389462574,
+    "pointcloud_num": 5658
+  },
+  {
+    "file_name": "04271.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30587884612166666,
+    "total_length": 0.36889765027544036,
+    "sleeve_length": 0.1481266891461538,
+    "chest_width": 0.4127727658569743,
+    "pointcloud_num": 3674
+  },
+  {
+    "file_name": "01775.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31659368983194813,
+    "total_length": 0.4990600477475746,
+    "sleeve_length": 0.28366855003721647,
+    "chest_width": 0.45980532895093973,
+    "pointcloud_num": 5702
+  },
+  {
+    "file_name": "03792.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3181571746912465,
+    "total_length": 0.5308580916559171,
+    "sleeve_length": 0.16696847803304826,
+    "chest_width": 0.4527785156721953,
+    "pointcloud_num": 4922
+  },
+  {
+    "file_name": "04519.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3152625173255101,
+    "total_length": 0.4085506980559535,
+    "sleeve_length": 0.45654599256232364,
+    "chest_width": 0.42863087374782793,
+    "pointcloud_num": 5914
+  },
+  {
+    "file_name": "04975.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3304852844281424,
+    "total_length": 0.4015727990719703,
+    "sleeve_length": 0.45895185581777515,
+    "chest_width": 0.49434733424553345,
+    "pointcloud_num": 5606
+  },
+  {
+    "file_name": "03950.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3054129984402954,
+    "total_length": 0.3736767700027881,
+    "sleeve_length": 0.07133134635190186,
+    "chest_width": 0.4343123127876459,
+    "pointcloud_num": 3174
+  },
+  {
+    "file_name": "00046.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3211541089276437,
+    "total_length": 0.4967210695669755,
+    "sleeve_length": 0.1272523411398998,
+    "chest_width": 0.41999662853531894,
+    "pointcloud_num": 4518
+  },
+  {
+    "file_name": "03484.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31055233501378326,
+    "total_length": 0.5922733245969173,
+    "sleeve_length": 0.3890046669679963,
+    "chest_width": 0.44410308439143886,
+    "pointcloud_num": 6810
+  },
+  {
+    "file_name": "01321.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3209316994874865,
+    "total_length": 0.39197778826860374,
+    "sleeve_length": 0.45751759330090014,
+    "chest_width": 0.4258310320834062,
+    "pointcloud_num": 5446
+  },
+  {
+    "file_name": "00775.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3204300608266231,
+    "total_length": 0.5235466680844229,
+    "sleeve_length": 0.41337669328660664,
+    "chest_width": 0.4352653992994565,
+    "pointcloud_num": 6458
+  },
+  {
+    "file_name": "01327.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3137556840402136,
+    "total_length": 0.4979399282068229,
+    "sleeve_length": 0.3131067059784332,
+    "chest_width": 0.41397351808001537,
+    "pointcloud_num": 5990
+  },
+  {
+    "file_name": "00417.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31942435850909173,
+    "total_length": 0.4664425706100929,
+    "sleeve_length": 0.22187922179969888,
+    "chest_width": 0.45942010049215787,
+    "pointcloud_num": 4826
+  },
+  {
+    "file_name": "07172.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3108369905156824,
+    "total_length": 0.3834865540540071,
+    "sleeve_length": 0.3756149768652441,
+    "chest_width": 0.42691905683942544,
+    "pointcloud_num": 5094
+  },
+  {
+    "file_name": "03108.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31374309147331964,
+    "total_length": 0.374865549669722,
+    "sleeve_length": 0.3720147853594659,
+    "chest_width": 0.42318936214174374,
+    "pointcloud_num": 5082
+  },
+  {
+    "file_name": "02733.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.322160115748004,
+    "total_length": 0.44745284676689995,
+    "sleeve_length": 0.10130804937218955,
+    "chest_width": 0.4738179968025379,
+    "pointcloud_num": 3898
+  },
+  {
+    "file_name": "03463.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31835559310530875,
+    "total_length": 0.5254836418998432,
+    "sleeve_length": 0.2699570650634026,
+    "chest_width": 0.4567180815084798,
+    "pointcloud_num": 5690
+  },
+  {
+    "file_name": "06428.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3150719186501933,
+    "total_length": 12.433615918709217,
+    "sleeve_length": 0.4237309144161242,
+    "chest_width": 0.4562622901268605,
+    "pointcloud_num": 5178
+  },
+  {
+    "file_name": "01249.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32734199225261135,
+    "total_length": 0.4454796926754509,
+    "sleeve_length": 0.2790570316680163,
+    "chest_width": 0.47300707459480607,
+    "pointcloud_num": 4902
+  },
+  {
+    "file_name": "01394.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30702639614968436,
+    "total_length": 0.3871309455031957,
+    "sleeve_length": 0.419356978335312,
+    "chest_width": 0.41369492097801824,
+    "pointcloud_num": 5350
+  },
+  {
+    "file_name": "01500.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31789533257915276,
+    "total_length": 0.43891688274538787,
+    "sleeve_length": 0.35588616316970356,
+    "chest_width": 0.4733075711636645,
+    "pointcloud_num": 5434
+  },
+  {
+    "file_name": "05660.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30632282025470275,
+    "total_length": 0.42064929918670174,
+    "sleeve_length": 0.06747399927983554,
+    "chest_width": 0.4502967690138958,
+    "pointcloud_num": 3482
+  },
+  {
+    "file_name": "07149.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3112551034353189,
+    "total_length": 0.4226324977471139,
+    "sleeve_length": 0.30467332141028003,
+    "chest_width": 0.4354667741547962,
+    "pointcloud_num": 5030
+  },
+  {
+    "file_name": "02402.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30999005632541127,
+    "total_length": 0.3764594249830645,
+    "sleeve_length": 0.45787644343777706,
+    "chest_width": 0.42033956898671787,
+    "pointcloud_num": 5606
+  },
+  {
+    "file_name": "01529.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.29903663013323944,
+    "total_length": 0.41369147998904515,
+    "sleeve_length": 0.0647091184066566,
+    "chest_width": 0.4377887198596442,
+    "pointcloud_num": 3642
+  },
+  {
+    "file_name": "05294.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3148826519113187,
+    "total_length": 0.4748192948413992,
+    "sleeve_length": 0.3497396653949385,
+    "chest_width": 0.4579351915149319,
+    "pointcloud_num": 5766
+  },
+  {
+    "file_name": "00193.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3165580851700377,
+    "total_length": 0.5106189839043793,
+    "sleeve_length": 0.2554534825545128,
+    "chest_width": 0.468235931910837,
+    "pointcloud_num": 5574
+  },
+  {
+    "file_name": "07023.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3050006476400251,
+    "total_length": 0.5453872712731783,
+    "sleeve_length": 0.3120546432440902,
+    "chest_width": 0.42422605573718697,
+    "pointcloud_num": 6298
+  },
+  {
+    "file_name": "01262.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.309856496492055,
+    "total_length": 0.4688907944165156,
+    "sleeve_length": 0.29792385305409946,
+    "chest_width": 0.41645861377063786,
+    "pointcloud_num": 5818
+  },
+  {
+    "file_name": "01696.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3167141979797998,
+    "total_length": 0.44252907979822725,
+    "sleeve_length": 0.4297647827930438,
+    "chest_width": 0.43149956813714263,
+    "pointcloud_num": 6106
+  },
+  {
+    "file_name": "03697.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31986743424965147,
+    "total_length": 0.31733007944791825,
+    "sleeve_length": 0.10802043381853026,
+    "chest_width": 0.4564093287104267,
+    "pointcloud_num": 3098
+  },
+  {
+    "file_name": "05220.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31555615935105047,
+    "total_length": 0.39730068510567695,
+    "sleeve_length": 0.3127814919423261,
+    "chest_width": 0.4322916719147094,
+    "pointcloud_num": 4870
+  },
+  {
+    "file_name": "02664.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.320411449526354,
+    "total_length": 0.5513764387410892,
+    "sleeve_length": 0.3310959539385054,
+    "chest_width": 0.45338690098603673,
+    "pointcloud_num": 6278
+  },
+  {
+    "file_name": "05295.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31308156108729457,
+    "total_length": 0.4415397429073951,
+    "sleeve_length": 0.16612744320526054,
+    "chest_width": 0.4380664016591628,
+    "pointcloud_num": 4294
+  },
+  {
+    "file_name": "05187.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.30626591688475785,
+    "total_length": 0.3580867329581359,
+    "sleeve_length": 0.26837435453876074,
+    "chest_width": 0.42623430553738917,
+    "pointcloud_num": 4294
+  },
+  {
+    "file_name": "01444.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31339342762379474,
+    "total_length": 0.3114316800176475,
+    "sleeve_length": 0.08892153902735103,
+    "chest_width": 0.4706226013605146,
+    "pointcloud_num": 2970
+  },
+  {
+    "file_name": "04489.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31355628484882647,
+    "total_length": 0.3341406698598453,
+    "sleeve_length": 0.3989770010225418,
+    "chest_width": 0.44719919061606184,
+    "pointcloud_num": 5050
+  },
+  {
+    "file_name": "02703.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3229532140943921,
+    "total_length": 0.5826648085387915,
+    "sleeve_length": 0.1037351173885445,
+    "chest_width": 0.4348748050337631,
+    "pointcloud_num": 4870
+  },
+  {
+    "file_name": "01086.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31523716317529904,
+    "total_length": 0.3707308742039148,
+    "sleeve_length": 0.15110466206683001,
+    "chest_width": 0.4575766437215276,
+    "pointcloud_num": 3514
+  },
+  {
+    "file_name": "05778.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3097856682513148,
+    "total_length": 0.5703916201510524,
+    "sleeve_length": 0.09024707809734393,
+    "chest_width": 0.43363323549141586,
+    "pointcloud_num": 4582
+  },
+  {
+    "file_name": "00623.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.31696803226625603,
+    "total_length": 0.5706184737673301,
+    "sleeve_length": 0.2731737568831433,
+    "chest_width": 0.4327531239559298,
+    "pointcloud_num": 5894
+  },
+  {
+    "file_name": "07383.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3152268777818204,
+    "total_length": 0.4748702391708854,
+    "sleeve_length": 0.41633573750070646,
+    "chest_width": 0.4359070745714624,
+    "pointcloud_num": 6150
+  },
+  {
+    "file_name": "00637.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.2997006572252271,
+    "total_length": 0.5358515520590529,
+    "sleeve_length": 0.25537503446203214,
+    "chest_width": 0.4122962666562064,
+    "pointcloud_num": 5434
+  },
+  {
+    "file_name": "02047.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.32110021276009143,
+    "total_length": 0.3399376924665088,
+    "sleeve_length": 0.32566750194769734,
+    "chest_width": 0.46772711949246726,
+    "pointcloud_num": 4666
+  },
+  {
+    "file_name": "07511.obj",
+    "category": "tshirts",
+    "shoulder_width": 0.3174344154385731,
+    "total_length": 0.4500276342841199,
+    "sleeve_length": 0.09317943671015454,
+    "chest_width": 0.4521721640333287,
+    "pointcloud_num": 3930
+  },
+  {
+    "file_name": "04941.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3198930548256492,
+    "total_length": 0.41571035209107077,
+    "sleeve_length": 0.23938197846005005,
+    "chest_width": 0.4501654400594755,
+    "pointcloud_num": 4529
+  },
+  {
+    "file_name": "01029.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.313207813702541,
+    "total_length": 0.4365424784379664,
+    "sleeve_length": 0.22730162699583498,
+    "chest_width": 0.41723229525075617,
+    "pointcloud_num": 4709
+  },
+  {
+    "file_name": "02240.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3170185377718944,
+    "total_length": 0.5519025418308037,
+    "sleeve_length": 0.13064260686571005,
+    "chest_width": 0.4692444414241489,
+    "pointcloud_num": 4685
+  },
+  {
+    "file_name": "01256.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3195096844742897,
+    "total_length": 0.6076225216119107,
+    "sleeve_length": 0.4382426886935191,
+    "chest_width": 0.4606226489811643,
+    "pointcloud_num": 7067
+  },
+  {
+    "file_name": "05913.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3129469690398009,
+    "total_length": 0.32509629698844805,
+    "sleeve_length": 0.3352860299648441,
+    "chest_width": 0.4337550972372413,
+    "pointcloud_num": 4425
+  },
+  {
+    "file_name": "00716.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31521360815905486,
+    "total_length": 0.4896874480431604,
+    "sleeve_length": 0.07392894136058266,
+    "chest_width": 0.42590213920552333,
+    "pointcloud_num": 3839
+  },
+  {
+    "file_name": "04100.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31344217160490456,
+    "total_length": 0.3871131586424356,
+    "sleeve_length": 0.14722646268022363,
+    "chest_width": 0.49113882192263736,
+    "pointcloud_num": 3735
+  },
+  {
+    "file_name": "00448.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3167631003313083,
+    "total_length": 0.3959663009493775,
+    "sleeve_length": 0.38677921059306974,
+    "chest_width": 0.4770453931850942,
+    "pointcloud_num": 5143
+  },
+  {
+    "file_name": "02392.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3065196205019106,
+    "total_length": 0.4724890667166957,
+    "sleeve_length": 0.34932688741430784,
+    "chest_width": 0.4300334817629464,
+    "pointcloud_num": 5631
+  },
+  {
+    "file_name": "06817.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30908245376127824,
+    "total_length": 0.33439904141268884,
+    "sleeve_length": 0.37667573295064094,
+    "chest_width": 0.44585793210092806,
+    "pointcloud_num": 4835
+  },
+  {
+    "file_name": "03678.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31630826472474166,
+    "total_length": 0.4622999221623048,
+    "sleeve_length": 0.4816108737985861,
+    "chest_width": 0.4598842378282967,
+    "pointcloud_num": 6245
+  },
+  {
+    "file_name": "00429.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3350863435558338,
+    "total_length": 0.44294477208253785,
+    "sleeve_length": 0.11832610475022219,
+    "chest_width": 0.4944909962324836,
+    "pointcloud_num": 3915
+  },
+  {
+    "file_name": "00732.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3158893019821281,
+    "total_length": 0.4696199444785648,
+    "sleeve_length": 0.46583557700158584,
+    "chest_width": 0.44469279256220073,
+    "pointcloud_num": 6399
+  },
+  {
+    "file_name": "04891.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32630982778482237,
+    "total_length": 0.5281102988459025,
+    "sleeve_length": 0.4070733765126626,
+    "chest_width": 0.4458080631666526,
+    "pointcloud_num": 6323
+  },
+  {
+    "file_name": "02363.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3103321559483479,
+    "total_length": 0.6332364770623322,
+    "sleeve_length": 0.11190602937881071,
+    "chest_width": 0.4198420658600084,
+    "pointcloud_num": 5019
+  },
+  {
+    "file_name": "05142.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3157023244393392,
+    "total_length": 0.4648512383502233,
+    "sleeve_length": 0.42307731720321384,
+    "chest_width": 0.4708407224551856,
+    "pointcloud_num": 5861
+  },
+  {
+    "file_name": "05119.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32249846147123207,
+    "total_length": 0.34730601858414,
+    "sleeve_length": 0.2998366163092331,
+    "chest_width": 0.4677986484442831,
+    "pointcloud_num": 4451
+  },
+  {
+    "file_name": "00271.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31280803863528095,
+    "total_length": 0.5417529092899842,
+    "sleeve_length": 0.18712775722161143,
+    "chest_width": 0.4479983453755585,
+    "pointcloud_num": 5069
+  },
+  {
+    "file_name": "01776.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3049407830185429,
+    "total_length": 0.417778351430687,
+    "sleeve_length": 0.25820464491343753,
+    "chest_width": 0.4224205305942541,
+    "pointcloud_num": 4657
+  },
+  {
+    "file_name": "04372.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31412542252565734,
+    "total_length": 0.4665615633970776,
+    "sleeve_length": 0.18700185739136632,
+    "chest_width": 0.4316877063560365,
+    "pointcloud_num": 4607
+  },
+  {
+    "file_name": "02295.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3221554081184988,
+    "total_length": 0.4442050446481644,
+    "sleeve_length": 0.40431509748230265,
+    "chest_width": 0.48418424583114683,
+    "pointcloud_num": 5425
+  },
+  {
+    "file_name": "05109.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3071999630214171,
+    "total_length": 0.36882771622821076,
+    "sleeve_length": 0.2917261860986442,
+    "chest_width": 0.4066561366267412,
+    "pointcloud_num": 4631
+  },
+  {
+    "file_name": "02511.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3166508251244375,
+    "total_length": 0.34077043841157667,
+    "sleeve_length": 0.250211813714662,
+    "chest_width": 0.4429677351604623,
+    "pointcloud_num": 3913
+  },
+  {
+    "file_name": "01648.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31952487252470635,
+    "total_length": 0.3673197388397906,
+    "sleeve_length": 0.32892828272982155,
+    "chest_width": 0.4695635604288779,
+    "pointcloud_num": 4733
+  },
+  {
+    "file_name": "07509.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3139762013182323,
+    "total_length": 0.5355036884563188,
+    "sleeve_length": 0.08813470894032362,
+    "chest_width": 0.398369707196093,
+    "pointcloud_num": 4275
+  },
+  {
+    "file_name": "01454.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3073661426740831,
+    "total_length": 0.41378600173818125,
+    "sleeve_length": 0.4593407887712752,
+    "chest_width": 0.43569843997179736,
+    "pointcloud_num": 5809
+  },
+  {
+    "file_name": "02871.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3067031628479447,
+    "total_length": 0.5933616378546398,
+    "sleeve_length": 0.3117812139957801,
+    "chest_width": 0.49540784789057435,
+    "pointcloud_num": 6299
+  },
+  {
+    "file_name": "00087.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3109947836215096,
+    "total_length": 0.4745583725834007,
+    "sleeve_length": 0.20821453971380127,
+    "chest_width": 0.4326844339355831,
+    "pointcloud_num": 4735
+  },
+  {
+    "file_name": "05226.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31399236755751603,
+    "total_length": 0.3499699412754721,
+    "sleeve_length": 0.22669906528907535,
+    "chest_width": 0.4169184964616704,
+    "pointcloud_num": 4093
+  },
+  {
+    "file_name": "04546.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31614322235994236,
+    "total_length": 0.5961400749186075,
+    "sleeve_length": 0.20625320819991722,
+    "chest_width": 0.4438548394371482,
+    "pointcloud_num": 5505
+  },
+  {
+    "file_name": "02174.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3221905468043793,
+    "total_length": 0.5795432901811682,
+    "sleeve_length": 0.40591201520642467,
+    "chest_width": 0.4554240179414686,
+    "pointcloud_num": 6785
+  },
+  {
+    "file_name": "03912.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31700528081343343,
+    "total_length": 0.4345434655602698,
+    "sleeve_length": 0.3069104519999285,
+    "chest_width": 0.43226409445702485,
+    "pointcloud_num": 5067
+  },
+  {
+    "file_name": "06165.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30701878236522295,
+    "total_length": 0.408794806009716,
+    "sleeve_length": 0.17633001782515811,
+    "chest_width": 0.434848647012423,
+    "pointcloud_num": 4017
+  },
+  {
+    "file_name": "02527.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30430442322348994,
+    "total_length": 0.5171009864040415,
+    "sleeve_length": 0.16625435270280642,
+    "chest_width": 0.4207958263045509,
+    "pointcloud_num": 4787
+  },
+  {
+    "file_name": "05910.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31802692808207556,
+    "total_length": 0.3801646127885374,
+    "sleeve_length": 0.1870677837757936,
+    "chest_width": 0.4489835456615892,
+    "pointcloud_num": 3837
+  },
+  {
+    "file_name": "05677.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3154427931043517,
+    "total_length": 0.3271122798760245,
+    "sleeve_length": 0.19212112075874074,
+    "chest_width": 0.48799843931563325,
+    "pointcloud_num": 3529
+  },
+  {
+    "file_name": "05763.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32257525013910215,
+    "total_length": 0.5451020554210873,
+    "sleeve_length": 0.3277520483428069,
+    "chest_width": 0.40425733037776884,
+    "pointcloud_num": 5965
+  },
+  {
+    "file_name": "07455.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30612265988918086,
+    "total_length": 0.32631685940229466,
+    "sleeve_length": 0.10358406448905723,
+    "chest_width": 0.4489481946797572,
+    "pointcloud_num": 3017
+  },
+  {
+    "file_name": "03884.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31219128845584365,
+    "total_length": 0.39870748902769126,
+    "sleeve_length": 0.4609117098293296,
+    "chest_width": 0.458528472619881,
+    "pointcloud_num": 5809
+  },
+  {
+    "file_name": "03353.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3153553279462492,
+    "total_length": 0.40262541046753136,
+    "sleeve_length": 0.08394074093994246,
+    "chest_width": 0.4359817516182097,
+    "pointcloud_num": 3505
+  },
+  {
+    "file_name": "06576.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3152800458349603,
+    "total_length": 0.6065841458306106,
+    "sleeve_length": 0.10736804106351666,
+    "chest_width": 0.4275315089021114,
+    "pointcloud_num": 5019
+  },
+  {
+    "file_name": "05287.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3030888112544431,
+    "total_length": 0.4267137024828473,
+    "sleeve_length": 0.22993557116960897,
+    "chest_width": 0.4242992543823305,
+    "pointcloud_num": 4709
+  },
+  {
+    "file_name": "06923.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3111659354890481,
+    "total_length": 0.47068972892044975,
+    "sleeve_length": 0.08177852935974936,
+    "chest_width": 0.40978637791074835,
+    "pointcloud_num": 3967
+  },
+  {
+    "file_name": "05828.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3210373660614207,
+    "total_length": 0.46470674710854437,
+    "sleeve_length": 0.3866024980366766,
+    "chest_width": 0.444463053424074,
+    "pointcloud_num": 5887
+  },
+  {
+    "file_name": "02475.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3249955729963835,
+    "total_length": 0.41674850941260083,
+    "sleeve_length": 0.07236764693812647,
+    "chest_width": 0.4754206019747351,
+    "pointcloud_num": 3377
+  },
+  {
+    "file_name": "04501.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30706837433382034,
+    "total_length": 0.39574637143604874,
+    "sleeve_length": 0.2694814618488286,
+    "chest_width": 0.4368926075503378,
+    "pointcloud_num": 4657
+  },
+  {
+    "file_name": "04858.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3268529475539942,
+    "total_length": 0.3856415869393248,
+    "sleeve_length": 0.10507934398795296,
+    "chest_width": 0.4557994449853706,
+    "pointcloud_num": 3171
+  },
+  {
+    "file_name": "01370.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31780683804970583,
+    "total_length": 0.5472800403654208,
+    "sleeve_length": 0.43254206977079973,
+    "chest_width": 0.44976798049065014,
+    "pointcloud_num": 6605
+  },
+  {
+    "file_name": "03402.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32257762258078093,
+    "total_length": 0.38883792682486074,
+    "sleeve_length": 0.43442497012985587,
+    "chest_width": 0.4674980955596133,
+    "pointcloud_num": 5527
+  },
+  {
+    "file_name": "02309.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3189841781210037,
+    "total_length": 0.5061082626997906,
+    "sleeve_length": 0.0962830809589585,
+    "chest_width": 0.46385747347588263,
+    "pointcloud_num": 4403
+  },
+  {
+    "file_name": "01451.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30990324252728985,
+    "total_length": 0.31042485522315544,
+    "sleeve_length": 0.23036037509372578,
+    "chest_width": 0.4361334644344956,
+    "pointcloud_num": 3785
+  },
+  {
+    "file_name": "06723.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3182409253376033,
+    "total_length": 0.366729447741288,
+    "sleeve_length": 0.12381255775669728,
+    "chest_width": 0.45882250713922834,
+    "pointcloud_num": 3453
+  },
+  {
+    "file_name": "06030.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31871014453989,
+    "total_length": 0.3399434333259897,
+    "sleeve_length": 0.2728381532162021,
+    "chest_width": 0.420604879457353,
+    "pointcloud_num": 4323
+  },
+  {
+    "file_name": "04824.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3296080951231698,
+    "total_length": 0.5136203606259822,
+    "sleeve_length": 0.4488984390133698,
+    "chest_width": 0.46761545359681833,
+    "pointcloud_num": 6425
+  },
+  {
+    "file_name": "05440.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31701363042471437,
+    "total_length": 0.4463827365723953,
+    "sleeve_length": 0.32897619968471675,
+    "chest_width": 0.4216085699387648,
+    "pointcloud_num": 5349
+  },
+  {
+    "file_name": "00161.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31302467527083905,
+    "total_length": 0.5569379962682063,
+    "sleeve_length": 0.33559507738718003,
+    "chest_width": 0.42528653636234925,
+    "pointcloud_num": 5657
+  },
+  {
+    "file_name": "06361.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31041110184814746,
+    "total_length": 0.43522683198375667,
+    "sleeve_length": 0.08663478685426473,
+    "chest_width": 0.41634024233773914,
+    "pointcloud_num": 3659
+  },
+  {
+    "file_name": "02145.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31392807080293383,
+    "total_length": 0.3662423556847491,
+    "sleeve_length": 0.18663436257538135,
+    "chest_width": 0.45991911831555204,
+    "pointcloud_num": 3837
+  },
+  {
+    "file_name": "02672.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32314484055729614,
+    "total_length": 0.3253563170035989,
+    "sleeve_length": 0.12657801449005712,
+    "chest_width": 0.4219256969229927,
+    "pointcloud_num": 3299
+  },
+  {
+    "file_name": "00584.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3099355938076178,
+    "total_length": 0.40040816586854705,
+    "sleeve_length": 0.3341969448268167,
+    "chest_width": 0.45493476754464157,
+    "pointcloud_num": 5041
+  },
+  {
+    "file_name": "02166.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.311493085994905,
+    "total_length": 0.42224917506563503,
+    "sleeve_length": 0.3561416202382517,
+    "chest_width": 0.42927402419881744,
+    "pointcloud_num": 5169
+  },
+  {
+    "file_name": "01006.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31352884058059444,
+    "total_length": 0.34879605747045866,
+    "sleeve_length": 0.0747416792003106,
+    "chest_width": 0.4545225309510949,
+    "pointcloud_num": 2915
+  },
+  {
+    "file_name": "04971.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3146297193952838,
+    "total_length": 0.31544595979318374,
+    "sleeve_length": 0.4214939522438875,
+    "chest_width": 0.43487253354838673,
+    "pointcloud_num": 4937
+  },
+  {
+    "file_name": "06843.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31646952051974647,
+    "total_length": 0.4763088756442968,
+    "sleeve_length": 0.47786006825348915,
+    "chest_width": 0.42940923854947993,
+    "pointcloud_num": 6553
+  },
+  {
+    "file_name": "03738.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31071668692731913,
+    "total_length": 0.3748739045409909,
+    "sleeve_length": 0.19205224078326225,
+    "chest_width": 0.4701544975332985,
+    "pointcloud_num": 3991
+  },
+  {
+    "file_name": "03717.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31398683379042464,
+    "total_length": 0.4270979797261131,
+    "sleeve_length": 0.10145552865381988,
+    "chest_width": 0.4467945875424001,
+    "pointcloud_num": 3787
+  },
+  {
+    "file_name": "06652.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3138633296698016,
+    "total_length": 0.35251408632191716,
+    "sleeve_length": 0.39562179226785377,
+    "chest_width": 0.4237050837215339,
+    "pointcloud_num": 5117
+  },
+  {
+    "file_name": "00471.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3256833580946173,
+    "total_length": 0.3498065556506036,
+    "sleeve_length": 0.10120168013466274,
+    "chest_width": 0.4895137354529362,
+    "pointcloud_num": 3325
+  },
+  {
+    "file_name": "00532.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3121909831023664,
+    "total_length": 0.391168562954488,
+    "sleeve_length": 0.16594749608335246,
+    "chest_width": 0.41165147685388936,
+    "pointcloud_num": 4017
+  },
+  {
+    "file_name": "03370.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31589701197347647,
+    "total_length": 0.4954760654005074,
+    "sleeve_length": 0.36840472958195875,
+    "chest_width": 0.41930959363606607,
+    "pointcloud_num": 5451
+  },
+  {
+    "file_name": "07178.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3112577618731297,
+    "total_length": 0.49399788921173327,
+    "sleeve_length": 0.29649822837094003,
+    "chest_width": 0.43436820547476324,
+    "pointcloud_num": 5683
+  },
+  {
+    "file_name": "05823.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31831135924666887,
+    "total_length": 0.3685124467514387,
+    "sleeve_length": 0.15903161465163945,
+    "chest_width": 0.4765904803594495,
+    "pointcloud_num": 3709
+  },
+  {
+    "file_name": "06992.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31336836846235483,
+    "total_length": 0.4376372527206547,
+    "sleeve_length": 0.4396830777890132,
+    "chest_width": 0.4465466122767373,
+    "pointcloud_num": 5835
+  },
+  {
+    "file_name": "05700.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30875735921201475,
+    "total_length": 0.5642295491240756,
+    "sleeve_length": 0.22075412190558266,
+    "chest_width": 0.49482573085764203,
+    "pointcloud_num": 5351
+  },
+  {
+    "file_name": "00165.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.327519467278418,
+    "total_length": 0.561236593079056,
+    "sleeve_length": 0.15203178414825824,
+    "chest_width": 0.4839067744507579,
+    "pointcloud_num": 4813
+  },
+  {
+    "file_name": "06201.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31564942312386335,
+    "total_length": 0.3273512806059588,
+    "sleeve_length": 0.05894968346629613,
+    "chest_width": 0.459460606860828,
+    "pointcloud_num": 2761
+  },
+  {
+    "file_name": "01701.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3200177408952662,
+    "total_length": 0.4504520480051843,
+    "sleeve_length": 0.1308860464170203,
+    "chest_width": 0.4641227239836512,
+    "pointcloud_num": 4069
+  },
+  {
+    "file_name": "03676.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31647326828778655,
+    "total_length": 0.3782918891201135,
+    "sleeve_length": 0.39816603784637156,
+    "chest_width": 0.4327574230089013,
+    "pointcloud_num": 5271
+  },
+  {
+    "file_name": "06912.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30753968816741273,
+    "total_length": 0.554105178813116,
+    "sleeve_length": 0.35770153107010627,
+    "chest_width": 0.42974797629733863,
+    "pointcloud_num": 6247
+  },
+  {
+    "file_name": "02394.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3037198865446157,
+    "total_length": 0.5057953894087202,
+    "sleeve_length": 0.22456158477132335,
+    "chest_width": 0.4594183324521679,
+    "pointcloud_num": 5171
+  },
+  {
+    "file_name": "00845.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32592271872764533,
+    "total_length": 0.4576907800213677,
+    "sleeve_length": 0.2048049727596314,
+    "chest_width": 0.43887408778032644,
+    "pointcloud_num": 4581
+  },
+  {
+    "file_name": "03391.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3159515886267392,
+    "total_length": 0.32677871089067156,
+    "sleeve_length": 0.23506402933281667,
+    "chest_width": 0.42451813474609107,
+    "pointcloud_num": 3785
+  },
+  {
+    "file_name": "01849.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31366640478503405,
+    "total_length": 0.37280662491477223,
+    "sleeve_length": 0.1448038249998298,
+    "chest_width": 0.42220081167175794,
+    "pointcloud_num": 3581
+  },
+  {
+    "file_name": "00074.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3123684696432012,
+    "total_length": 0.35128490568723103,
+    "sleeve_length": 0.3429472758491119,
+    "chest_width": 0.4405553247320479,
+    "pointcloud_num": 4861
+  },
+  {
+    "file_name": "02687.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3186347434878831,
+    "total_length": 0.3246848111594669,
+    "sleeve_length": 0.4182563652074992,
+    "chest_width": 0.4333523604950932,
+    "pointcloud_num": 4937
+  },
+  {
+    "file_name": "07532.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3236482210404255,
+    "total_length": 0.6250728031630921,
+    "sleeve_length": 0.23391396897053623,
+    "chest_width": 0.43884155428094673,
+    "pointcloud_num": 5915
+  },
+  {
+    "file_name": "06680.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3128766049283355,
+    "total_length": 0.40029911544854263,
+    "sleeve_length": 0.13806210265112515,
+    "chest_width": 0.441158876864626,
+    "pointcloud_num": 3889
+  },
+  {
+    "file_name": "00331.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31710342170666284,
+    "total_length": 0.35621783567626153,
+    "sleeve_length": 0.06941724059745161,
+    "chest_width": 0.47403263018877584,
+    "pointcloud_num": 3069
+  },
+  {
+    "file_name": "03989.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3188837455420476,
+    "total_length": 0.5160064259407591,
+    "sleeve_length": 0.16299778709457266,
+    "chest_width": 0.46122869173129505,
+    "pointcloud_num": 4633
+  },
+  {
+    "file_name": "00263.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32019825631728377,
+    "total_length": 0.5473503780397949,
+    "sleeve_length": 0.4529051278211932,
+    "chest_width": 0.40947382961229956,
+    "pointcloud_num": 6733
+  },
+  {
+    "file_name": "00692.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.315742008041796,
+    "total_length": 0.34537927160629034,
+    "sleeve_length": 0.13028486979922385,
+    "chest_width": 0.4664598642226031,
+    "pointcloud_num": 3299
+  },
+  {
+    "file_name": "03224.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32523641194154074,
+    "total_length": 0.4741862647538569,
+    "sleeve_length": 0.14067324127065128,
+    "chest_width": 0.4474609639124688,
+    "pointcloud_num": 4351
+  },
+  {
+    "file_name": "03625.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31683674017124414,
+    "total_length": 0.49811005329233804,
+    "sleeve_length": 0.1447862128957487,
+    "chest_width": 0.4373833531837623,
+    "pointcloud_num": 4505
+  },
+  {
+    "file_name": "05150.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31769556069208255,
+    "total_length": 0.5181985154717831,
+    "sleeve_length": 0.3720742743626233,
+    "chest_width": 0.41853022003047696,
+    "pointcloud_num": 6067
+  },
+  {
+    "file_name": "01583.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3252120544797591,
+    "total_length": 0.40761758166564294,
+    "sleeve_length": 0.14857505660547027,
+    "chest_width": 0.44326179310042635,
+    "pointcloud_num": 3889
+  },
+  {
+    "file_name": "05370.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3011222463112605,
+    "total_length": 0.5655606741579536,
+    "sleeve_length": 0.08484284113626221,
+    "chest_width": 0.48415457009829965,
+    "pointcloud_num": 4737
+  },
+  {
+    "file_name": "00806.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3249606287912437,
+    "total_length": 0.3879780368942438,
+    "sleeve_length": 0.10272687563454971,
+    "chest_width": 0.45905054804036577,
+    "pointcloud_num": 3479
+  },
+  {
+    "file_name": "00273.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31162885217483066,
+    "total_length": 0.42568557642597443,
+    "sleeve_length": 0.11397642545651313,
+    "chest_width": 0.46787148326875905,
+    "pointcloud_num": 3787
+  },
+  {
+    "file_name": "03173.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3107506001596469,
+    "total_length": 0.5522937838445523,
+    "sleeve_length": 0.38167226234625773,
+    "chest_width": 0.445944177617044,
+    "pointcloud_num": 6221
+  },
+  {
+    "file_name": "06286.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3078762107788559,
+    "total_length": 0.3254877099527832,
+    "sleeve_length": 0.07030249025560983,
+    "chest_width": 0.45887591212161966,
+    "pointcloud_num": 2761
+  },
+  {
+    "file_name": "06810.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.314026856001675,
+    "total_length": 0.5218035577105421,
+    "sleeve_length": 0.42372796044507105,
+    "chest_width": 0.4494832754677431,
+    "pointcloud_num": 6169
+  },
+  {
+    "file_name": "00871.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3031101945450894,
+    "total_length": 0.5618195959754271,
+    "sleeve_length": 0.08685452310999754,
+    "chest_width": 0.421958991535697,
+    "pointcloud_num": 4583
+  },
+  {
+    "file_name": "04774.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32922489826731915,
+    "total_length": 0.5130299462646312,
+    "sleeve_length": 0.3373371005965744,
+    "chest_width": 0.43840454160383113,
+    "pointcloud_num": 5785
+  },
+  {
+    "file_name": "05535.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3137058879848452,
+    "total_length": 0.5450991484329356,
+    "sleeve_length": 0.17280599836616622,
+    "chest_width": 0.45350391878400825,
+    "pointcloud_num": 4941
+  },
+  {
+    "file_name": "00611.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3100450692415039,
+    "total_length": 0.4978015974828343,
+    "sleeve_length": 0.1608918948169765,
+    "chest_width": 0.4512247496670399,
+    "pointcloud_num": 4633
+  },
+  {
+    "file_name": "00798.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31067930024179213,
+    "total_length": 0.49085001410707757,
+    "sleeve_length": 0.11156474941431545,
+    "chest_width": 0.4607192846011488,
+    "pointcloud_num": 4095
+  },
+  {
+    "file_name": "05399.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3253651585829033,
+    "total_length": 0.4676996385234176,
+    "sleeve_length": 0.26011045793106213,
+    "chest_width": 0.4591408217970452,
+    "pointcloud_num": 4965
+  },
+  {
+    "file_name": "03700.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3181086211405878,
+    "total_length": 0.39112182699562503,
+    "sleeve_length": 0.2865523643915324,
+    "chest_width": 0.42848225944850604,
+    "pointcloud_num": 4631
+  },
+  {
+    "file_name": "07256.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3194213485757334,
+    "total_length": 0.5983490020525593,
+    "sleeve_length": 0.4001304815285131,
+    "chest_width": 0.42537357016299565,
+    "pointcloud_num": 6657
+  },
+  {
+    "file_name": "04852.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3045514766220828,
+    "total_length": 0.39942837803461034,
+    "sleeve_length": 0.3318536226734326,
+    "chest_width": 0.4290663285297995,
+    "pointcloud_num": 5041
+  },
+  {
+    "file_name": "05375.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3201233226921084,
+    "total_length": 0.45386243930007564,
+    "sleeve_length": 0.23575952344040585,
+    "chest_width": 0.39817958644994667,
+    "pointcloud_num": 4837
+  },
+  {
+    "file_name": "04128.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32139955165726225,
+    "total_length": 0.44325092349874373,
+    "sleeve_length": 0.4070114489809733,
+    "chest_width": 0.45950456795734385,
+    "pointcloud_num": 5707
+  },
+  {
+    "file_name": "03545.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.3092624290391534,
+    "total_length": 0.4953777882433769,
+    "sleeve_length": 0.09316162306535011,
+    "chest_width": 0.42513127551199204,
+    "pointcloud_num": 4121
+  },
+  {
+    "file_name": "05818.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.31738024573226004,
+    "total_length": 0.41209469422639683,
+    "sleeve_length": 0.2202752659478035,
+    "chest_width": 0.43175440005498417,
+    "pointcloud_num": 4401
+  },
+  {
+    "file_name": "03350.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.32109845559846306,
+    "total_length": 0.518371021167506,
+    "sleeve_length": 0.08734509939936097,
+    "chest_width": 0.440638398578496,
+    "pointcloud_num": 4121
+  },
+  {
+    "file_name": "02113.obj",
+    "category": "opened-shirts",
+    "shoulder_width": 0.30983746170972,
+    "total_length": 0.3078107597917578,
+    "sleeve_length": 0.40392103614725644,
+    "chest_width": 0.4396474765011351,
+    "pointcloud_num": 4937
+  }
+]

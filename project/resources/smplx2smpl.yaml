@@ -1,0 +1,32 @@
+datasets:
+    name: 'mesh-folder'
+    mesh_folder:
+        data_folder: 'resources/smplx/data/body_models'
+    num_workers: 0
+batch_size: 1
+deformation_transfer_path: 'resources/smplx/transfer_data/smplx2smpl_deftrafo_setup.pkl'
+mask_ids_fname: ''
+summary_steps: 100
+
+edge_fitting:
+    per_part: False
+
+optim:
+    type: 'adam'
+    lr: 0.01
+    maxiters: 100
+    gtol: 1e-8
+
+body_model:
+    type: "smpl"
+    gender: "neutral"
+    folder: "resources/smplx/models"
+    use_compressed: False
+    use_face_contour: True
+    num_betas: 10
+    num_expression_coeffs: 10
+
+smpl:
+    type: "smpl"
+    gender: "neutral"
+    num_betas: 10

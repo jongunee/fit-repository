@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fit Repository</title>
+  </head>
+  <body>
+    <h1>Fit Repository</h1>
+    <p>Fit list by User</p>
+    <ul>
+      {% for user in user_data %}
+      <li>
+        <strong>{{ user.username }}</strong>
+        <ul>
+          {% for fititem in user.fits %}
+          <!-- fititem.display_name = "tshirts (regular)" -->
+          <li>
+            <a
+              href="{{ url_for('view_fit',
+                             username=user.username,
+                             fit_name=fititem.filename_no_ext) }}">
+              {{ fititem.display_name }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+    <hr />
+    <a href="{{ url_for('generate_smpl') }}">Create body shape</a> |
+    <a href="{{ url_for('fitting_room') }}">Check a fit</a>
+  </body>
+</html>

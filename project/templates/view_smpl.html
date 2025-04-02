@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>View body shape</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      .parent-container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+      }
+      .info-section {
+        flex: 0 0 auto;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+      .viewer-section {
+        flex: 1 1 auto;
+        display: block;
+        min-height: 500px;
+        height: calc(100vh - 200px);
+      }
+      #viewer-container {
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent-container">
+      <div class="info-section">
+        <h1>View body shape</h1>
+        <p>Name: {{ smpl_data.name }}</p>
+        <p>Gender: {{ smpl_data.gender }}</p>
+        <p>Height (cm): {{ smpl_data.height }}</p>
+        <p>Weight (kg): {{ smpl_data.weight }}</p>
+        <p>Chest (cm): {{ smpl_data.chest }}</p>
+        <p>Waist (cm): {{ smpl_data.waist }}</p>
+        <p>Hips (cm): {{ smpl_data.hips }}</p>
+        <hr />
+        <a href="{{ url_for('home') }}">Home</a>
+      </div>
+
+      <div class="viewer-section">
+        {% if mesh_url %}
+        <div id="viewer-container"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+
+        <script>
+          console.log("SMPL mesh_url:", "{{ mesh_url }}");
+
+          // Scene Setup
+          const container = document.getElementById("viewer-container");
+          const scene = new THREE.Scene();
+
+          // Camera
+          const camera = new THREE.PerspectiveCamera(
+            70,
+            container.clientWidth / container.clientHeight,
+            0.1,
+            1000
+          );
+
+          // Renderer
+          const renderer = new THREE.WebGLRenderer({ antialias: true });
+          renderer.setSize(container.clientWidth, container.clientHeight);
+          renderer.setClearColor(0xffffff, 1); // 흰색 배경
+          container.appendChild(renderer.domElement);
+
+          // Orbit Controls
+          const controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+          // Lights
+          const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
+          scene.add(ambientLight);
+
+          const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+          dirLight.position.set(1, 2, 1);
+          scene.add(dirLight);
+
+          // Resize
+          window.addEventListener("resize", function () {
+            const w = container.clientWidth;
+            const h = container.clientHeight;
+            camera.aspect = w / h;
+            camera.updateProjectionMatrix();
+            renderer.setSize(w, h);
+          });
+
+          // OBJ Loader
+          const objLoader = new THREE.OBJLoader();
+          objLoader.load(
+            "{{ mesh_url }}",
+            function (obj) {
+              console.log("SMPL OBJ 로드 성공:", obj);
+              // 밝은 회색 재질로 변경
+              obj.traverse(function (child) {
+                if (child instanceof THREE.Mesh) {
+                  child.material = new THREE.MeshPhongMaterial({
+                    color: 0xbbbbbb, // 더 밝은 회색
+                    side: THREE.DoubleSide,
+                    shininess: 30,
+                  });
+                }
+              });
+              scene.add(obj);
+
+              // BoundingBox 기반 카메라 조정
+              const box = new THREE.Box3().setFromObject(obj);
+              const center = box.getCenter(new THREE.Vector3());
+              const size = box.getSize(new THREE.Vector3());
+              const maxDim = Math.max(size.x, size.y, size.z);
+
+              const fov = camera.fov * (Math.PI / 180);
+              let cameraZ = Math.abs(maxDim / (2 * Math.tan(fov / 2)));
+              cameraZ *= 1.5;
+
+              camera.position.set(center.x, center.y, cameraZ);
+              camera.lookAt(center);
+
+              controls.target.set(center.x, center.y, center.z);
+              controls.update();
+              // 초기 확대 수준 설정
+              obj.scale.set(1.8, 1.8, 1.8); // 객체를 1.5배 크게 시작
+
+              console.log("Object loaded successfully");
+              console.log(
+                "Container dimensions:",
+                container.clientWidth,
+                container.clientHeight
+              );
+              console.log("Camera position:", camera.position);
+              console.log("Object center:", center);
+            },
+            function (xhr) {
+              const percent = (xhr.loaded / xhr.total) * 100;
+              console.log("SMPL OBJ 로딩 진행도:", percent.toFixed(2) + "%");
+            },
+            function (error) {
+              console.error("SMPL OBJ 로드 실패:", error);
+            }
+          );
+
+          function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+          }
+          animate();
+        </script>
+        {% else %}
+        <p>No SMPL 3D mesh found.</p>
+        {% endif %}
+      </div>
+    </div>
+  </body>
+</html>

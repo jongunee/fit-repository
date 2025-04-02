@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dynamic Measurement Form</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<style>
+    #3d-container {
+        width: 100%; height: 90vh; /* 3D 컨테이너의 크기 조정 */
+        max-height: 90vh;
+    }
+</style>
+<body>
+    <div style="float: left; width: 50%;">
+        <h2>Enter your data</h2>
+        <form id="dataForm">
+            Gender: <select name="gender" id="gender">
+                        <option value="">Select Gender</option>
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                    </select><br><br>
+            Config: <select name="config">
+                        <option value="00_a2s">00_a2s</option>
+                        <option value="01a_h2s">01a_h2s</option>
+                        <option value="01b_ah2s">01b_ah2s</option>
+                        <option value="02a_hw2s">02a_hw2s</option>
+                        <option value="02b_ahw2s">02b_ahw2s</option>
+                        <option value="03a_c2s">03a_c2s</option>
+                        <option value="03b_ac2s">03b_ac2s</option>
+                        <option value="04a_hcwh2s">04a_hcwh2s</option>
+                        <option value="04b_ahcwh2s">04b_ahcwh2s</option>
+                        <option value="05a_hwcwh2s">05a_hwcwh2s</option>
+                        <option value="05b_ahwcwh2s">05b_ahwcwh2s</option>
+                    </select><br><br>
+            AI Model Gender: <select name="ai_model_gender">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="neutral">Neutral</option>
+                    </select><br><br>
+            Height (cm): <input type="number" name="height"><br><br>
+            Weight (kg): <input type="number" name="weight"><br><br>
+            Chest (cm): <input type="number" name="chest"><br><br>
+            Waist (cm): <input type="number" name="waist"><br><br>
+            Hips (cm): <input type="number" name="hips"><br><br>
+            Clothing Size: <select name="clothing_size" id="clothing_size">
+                <option value="">Select Size</option>
+                <option value="XS">XS</option>
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+                <option value="XL">XL</option>
+            </select><br><br>
+            <!-- Add additional inputs for ratings here -->
+            <div id="labelsContainer"></div><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+    <div style="float: right; width: 50%;"> <!-- 3D 모델을 오른쪽에 배치 -->
+        <div id="3d-container"></div> <!-- 3D 모델 렌더링을 위한 컨테이너 -->
+    </div>
+    <script src="/static/js/main.js"></script>
+    <script src="/static/js/submit.js"></script> <!-- AJAX 처리를 위한 스크립트 -->
+</body>
+</html>

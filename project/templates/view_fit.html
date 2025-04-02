@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>View Fit</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      .parent-container {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .info-section {
+        flex: 0 0 auto;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .viewer-section {
+        flex: 1 1 auto;
+        display: block;
+        min-height: 500px;
+        height: calc(100vh - 200px);
+      }
+
+      #viewer-container {
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent-container">
+      <div class="info-section">
+        <h1>View Fit</h1>
+        <p>Name: {{ record_data.name }}</p>
+        <p>Brand: {{ record_data.brand }}</p>
+        <p>Catecory: {{ record_data.clothing_type }}</p>
+        <p>Fit Type: {{ record_data.fit_type }}</p>
+        <p>Size: {{ record_data.size }}</p>
+        <p>
+          Cloth measuerements(Shoulder width / Total length / Sleeve length /
+          Chest width): {{ record_data.shoulder_width }} / {{
+          record_data.total_length }} / {{ record_data.sleeve_length }} / {{
+          record_data.chest_width }}
+        </p>
+        <p>Pose: {{ record_data.pose }}</p>
+        <hr />
+        <a href="{{ url_for('home') }}">Home</a>
+      </div>
+
+      <div class="viewer-section">
+        {% if mesh_url %}
+        <div id="viewer-container"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+
+        <script>
+          console.log("mesh_url:", "{{ mesh_url }}");
+
+          // Scene Setup
+          const container = document.getElementById("viewer-container");
+          const scene = new THREE.Scene();
+
+          // Camera
+          const camera = new THREE.PerspectiveCamera(
+            70,
+            container.clientWidth / container.clientHeight,
+            0.1,
+            1000
+          );
+
+          // Renderer with white background
+          const renderer = new THREE.WebGLRenderer({ antialias: true });
+          renderer.setSize(container.clientWidth, container.clientHeight);
+          renderer.setClearColor(0xffffff, 1); // 흰색 배경
+          container.appendChild(renderer.domElement);
+
+          // Orbit Controls
+          const controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+          // 초기 줌 레벨 설정
+          controls.minDistance = 0.1;
+          controls.maxDistance = 10;
+
+          // Lights
+          const ambientLight = new THREE.AmbientLight(0xffffff, 0.7); // 밝은 환경광
+          scene.add(ambientLight);
+
+          const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+          dirLight.position.set(1, 2, 1);
+          scene.add(dirLight);
+
+          const backLight = new THREE.DirectionalLight(0xffffff, 0.3);
+          backLight.position.set(-1, 2, -1);
+          scene.add(backLight);
+
+          // Resize Event
+          window.addEventListener("resize", function () {
+            const w = container.clientWidth;
+            const h = container.clientHeight;
+            camera.aspect = w / h;
+            camera.updateProjectionMatrix();
+            renderer.setSize(w, h);
+          });
+
+          // OBJ Loader
+          const objLoader = new THREE.OBJLoader();
+          objLoader.load(
+            "{{ mesh_url }}",
+            function (obj) {
+              // 밝은 회색 재질로 변경
+              obj.traverse(function (child) {
+                if (child instanceof THREE.Mesh) {
+                  child.material = new THREE.MeshPhongMaterial({
+                    color: 0xbbbbbb, // 더 밝은 회색
+                    side: THREE.DoubleSide,
+                    shininess: 30,
+                  });
+                }
+              });
+
+              scene.add(obj);
+
+              // 바운딩 박스 계산
+              const box = new THREE.Box3().setFromObject(obj);
+              const center = box.getCenter(new THREE.Vector3());
+              const size = box.getSize(new THREE.Vector3());
+
+              // 객체를 중앙으로 이동
+              obj.position.sub(center);
+
+              // 카메라 위치 조정 - 더 가깝게 설정
+              const maxDim = Math.max(size.x, size.y, size.z);
+              const fov = camera.fov * (Math.PI / 180);
+              let cameraZ = Math.abs(maxDim / Math.tan(fov / 2)); // 거리를 줄임
+
+              camera.position.set(0, 0, cameraZ * 1.2); // 약간 더 가깝게
+              camera.lookAt(new THREE.Vector3(0, 0, 0));
+
+              // 시작 시 줌 레벨 설정
+              controls.target.set(0, 0, 0);
+              controls.update();
+
+              // 초기 확대 수준 설정
+              obj.scale.set(2.0, 2.0, 2.0); // 객체를 1.5배 크게 시작
+
+              console.log("Object loaded successfully");
+              console.log(
+                "Container dimensions:",
+                container.clientWidth,
+                container.clientHeight
+              );
+              console.log("Camera position:", camera.position);
+              console.log("Object center:", center);
+            },
+            function (xhr) {
+              const percent = (xhr.loaded / xhr.total) * 100;
+              console.log("OBJ 로딩 진행도:", percent.toFixed(2) + "%");
+            },
+            function (error) {
+              console.error("OBJ 파일 로드 실패:", error);
+            }
+          );
+
+          // Render Loop
+          function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+          }
+          animate();
+        </script>
+        {% else %}
+        <p>No 3D mesh found for this Fit.</p>
+        {% endif %}
+      </div>
+    </div>
+  </body>
+</html>

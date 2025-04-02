@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fitting Room</title>
+    <style>
+      /* 전체 레이아웃 높이를 100% 사용하기 위해 */
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      /* 부모 컨테이너: 화면 전체 */
+      .parent-container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+      }
+
+      .info-section {
+        flex: 0 0 auto;
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+      }
+
+      .viewer-section {
+        flex: 1 1 auto;
+        display: block;
+        min-height: 500px;
+        height: calc(100vh - 200px);
+      }
+
+      #viewer-container {
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parent-container">
+      <!-- 상단 정보 / 메뉴 -->
+      <div class="info-section">
+        <h1>Check your fit</h1>
+        <nav>
+          <a href="{{ url_for('home') }}">Home</a> |
+          <a href="{{ url_for('generate_smpl') }}">Create boydy shape</a>
+        </nav>
+        <hr />
+
+        {% if fit_saved %}
+        <!-- (3) Fit 저장 완료 화면 -->
+        <h2>Your fit is saved!</h2>
+        <p>Name: {{ record_data.name }}</p>
+        <p>Brand: {{ record_data.brand }}</p>
+        <p>Category: {{ record_data.clothing_type }}</p>
+        <p>Size: {{ record_data.size }}</p>
+        <p>Shoulder width: {{ record_data.shoulder_width }} cm</p>
+        <p>Total Length: {{ record_data.total_length }} cm</p>
+        <p>Sleece length: {{ record_data.sleeve_length }} cm</p>
+        <p>Chest width: {{ record_data.chest_width }} cm</p>
+        <p>Fit: {{ record_data.fit_type }}</p>
+        <p>Pose: {{ record_data.pose }}</p>
+        <br />
+        <a href="{{ url_for('fitting_room') }}">Check another fit</a> |
+        <a href="{{ url_for('home') }}">Home</a>
+
+        {% elif combined_mesh_url %}
+        <!-- (2) Preview OBJ 표시 & Fit 선택 폼 -->
+        <p>Preview and select a fit</p>
+        <hr />
+        <h3>Choose your fit</h3>
+        <form method="POST" action="{{ url_for('fitting_room') }}">
+          <input
+            type="hidden"
+            name="combined_mesh_path"
+            value="{{ combined_mesh_path }}" />
+          <input type="hidden" name="smpl_name" value="{{ smpl_name }}" />
+          <input type="hidden" name="brand" value="{{ brand }}" />
+          <input
+            type="hidden"
+            name="clothing_type"
+            value="{{ clothing_type }}" />
+          <input type="hidden" name="size" value="{{ size }}" />
+          <input
+            type="hidden"
+            name="shoulder_width"
+            value="{{ shoulder_width }}" />
+          <input type="hidden" name="total_length" value="{{ total_length }}" />
+          <input
+            type="hidden"
+            name="sleeve_length"
+            value="{{ sleeve_length }}" />
+          <input type="hidden" name="chest_width" value="{{ chest_width }}" />
+
+          <input type="radio" name="fit_type" value="slim" required />
+          Slim<br />
+          <input type="radio" name="fit_type" value="regular" /> Regular<br />
+          <input type="radio" name="fit_type" value="loose" /> Loose<br />
+          <input type="radio" name="fit_type" value="oversized" />
+          Oversized<br />
+          <input type="radio" name="fit_type" value="etc" /> 기타
+          <input
+            type="text"
+            name="fit_etc"
+            placeholder="Enter directly" /><br /><br />
+          <input type="submit" value="Save" />
+        </form>
+
+        {% else %}
+        <!-- (1) 아무것도 생성 안 된 상태(첫 GET) -->
+        <h2>Enter garment measurements</h2>
+        <form method="POST" action="{{ url_for('fitting_room') }}">
+          <label>User name:</label>
+          <select name="smpl_name" required>
+            {% for item in smpl_list %}
+            <option value="{{ item }}">{{ item }}</option>
+            {% endfor %}
+          </select>
+          <br /><br />
+
+          <label>Brand:</label>
+          <input type="text" name="brand" placeholder="e.g. Nike" /><br /><br />
+
+          <label>Category:</label>
+          <select name="clothing_type">
+            <option value="sleeveless">sleeveless</option>
+            <option value="tshirts" selected>tshirts</option>
+            <option value="opened-shirts">opened-shirts</option>
+          </select>
+          <br /><br />
+
+          <label>Size:</label>
+          <select name="size">
+            <option value="S">S</option>
+            <option value="M" selected>M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+          </select>
+          <br /><br />
+
+          <label>Shoulder width (cm):</label>
+          <input
+            type="number"
+            name="shoulder_width"
+            step="0.1"
+            required /><br /><br />
+
+          <label>Total length (cm):</label>
+          <input
+            type="number"
+            name="total_length"
+            step="0.1"
+            required /><br /><br />
+
+          <label>Sleeve length (cm):</label>
+          <input
+            type="number"
+            name="sleeve_length"
+            step="0.1"
+            required /><br /><br />
+
+          <label>Chest width (cm):</label>
+          <input
+            type="number"
+            name="chest_width"
+            step="0.1"
+            required /><br /><br />
+
+          <label>Pose:</label>
+          <select name="pose">
+            <option value="0" selected>A</option>
+            <option value="10">B</option>
+            <option value="15">C</option>
+            <option value="20">D</option>
+            <option value="25">E</option>
+          </select>
+          <br /><br />
+
+          <input type="submit" value="Check a fit" />
+        </form>
+        {% endif %}
+      </div>
+
+      <!-- Three.js Preview (2단계) -->
+      {% if combined_mesh_url %}
+      <div class="viewer-section">
+        <div id="viewer-container"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/OBJLoader.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+
+        <script>
+          console.log("combined_mesh_url:", "{{ combined_mesh_url }}");
+
+          const container = document.getElementById("viewer-container");
+          const scene = new THREE.Scene();
+          const camera = new THREE.PerspectiveCamera(
+            70,
+            container.clientWidth / container.clientHeight,
+            0.1,
+            1000
+          );
+
+          const renderer = new THREE.WebGLRenderer({ antialias: true });
+          renderer.setSize(container.clientWidth, container.clientHeight);
+          renderer.setClearColor(0xffffff, 1); // 흰색 배경
+          container.appendChild(renderer.domElement);
+
+          const controls = new THREE.OrbitControls(camera, renderer.domElement);
+
+          // Lights
+          const ambientLight = new THREE.AmbientLight(0xffffff, 0.7);
+          scene.add(ambientLight);
+
+          const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+          dirLight.position.set(1, 2, 1);
+          scene.add(dirLight);
+
+          const backLight = new THREE.DirectionalLight(0xffffff, 0.3);
+          backLight.position.set(-1, 2, -1);
+          scene.add(backLight);
+
+          // Resize
+          window.addEventListener("resize", function () {
+            const w = container.clientWidth;
+            const h = container.clientHeight;
+            camera.aspect = w / h;
+            camera.updateProjectionMatrix();
+            renderer.setSize(w, h);
+          });
+
+          // OBJ Load
+          const objLoader = new THREE.OBJLoader();
+          objLoader.load(
+            "{{ combined_mesh_url }}",
+            function (obj) {
+              console.log("Preview OBJ 로드 성공:", obj);
+              // 밝은 회색 재질로 변경
+              obj.traverse(function (child) {
+                if (child instanceof THREE.Mesh) {
+                  child.material = new THREE.MeshPhongMaterial({
+                    color: 0xbbbbbb, // 더 밝은 회색
+                    side: THREE.DoubleSide,
+                    shininess: 30,
+                  });
+                }
+              });
+              scene.add(obj);
+
+              const box = new THREE.Box3().setFromObject(obj);
+              const center = box.getCenter(new THREE.Vector3());
+              const size = box.getSize(new THREE.Vector3());
+              const maxDim = Math.max(size.x, size.y, size.z);
+
+              const fov = camera.fov * (Math.PI / 180);
+              let cameraZ = Math.abs(maxDim / (2 * Math.tan(fov / 2)));
+              cameraZ *= 1.5;
+
+              camera.position.set(center.x, center.y, cameraZ);
+              camera.lookAt(center);
+
+              controls.target.set(center.x, center.y, center.z);
+              controls.update();
+              // 초기 확대 수준 설정
+              obj.scale.set(1.8, 1.8, 1.8); // 객체를 1.5배 크게 시작
+
+              console.log("Object loaded successfully");
+              console.log(
+                "Container dimensions:",
+                container.clientWidth,
+                container.clientHeight
+              );
+              console.log("Camera position:", camera.position);
+              console.log("Object center:", center);
+            },
+            function (xhr) {
+              const percent = (xhr.loaded / xhr.total) * 100;
+              console.log("Preview OBJ 로딩 진행도:", percent.toFixed(2) + "%");
+            },
+            function (error) {
+              console.error("Preview OBJ 로드 실패:", error);
+            }
+          );
+
+          function animate() {
+            requestAnimationFrame(animate);
+            controls.update();
+            renderer.render(scene, camera);
+          }
+          animate();
+        </script>
+      </div>
+      {% endif %}
+    </div>
+  </body>
+</html>
